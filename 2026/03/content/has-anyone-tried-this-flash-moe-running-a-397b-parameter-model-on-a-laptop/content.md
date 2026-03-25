@@ -1,0 +1,7 @@
+# has anyone tried this? Flash-MoE: Running a 397B Parameter Model on a Laptop
+
+Source: [Reddit r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1s0mqto/has_anyone_tried_this_flashmoe_running_a_397b/)
+
+---
+
+<table> <tr><td> <a href="https://www.reddit.com/r/LocalLLaMA/comments/1s0mqto/has_anyone_tried_this_flashmoe_running_a_397b/"> <img src="https://external-preview.redd.it/aipsbDL6RzWMY8YaJMD_OPdhrYChduqs4Rjw5we_vhg.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c68d0d0b333eb937aa15a4728847d086b38387fe" alt="has anyone tried this? Flash-MoE: Running a 397B Parameter Model on a Laptop" title="has anyone tried this? Flash-MoE: Running a 397B Parameter Model on a Laptop" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Awkward-Bus-2057"> /u/Awkward-Bus-2057 </a> <br/> <span><a href="https://github.com/danveloper/flash-moe/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/LocalLLaMA/comments/1s0mqto/has_anyone_tried_this_flashmoe_running_a_397b/">[comments]</a></span> </td></tr></table>
