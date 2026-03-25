@@ -1,0 +1,43 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 7.0,
+  "bs_rating": "High BS",
+  "career_angle": "Skip meme posts entirely. If you want real local LLM benchmarks, go to lmsys.org leaderboard or run your own evals with lm-evaluation-harness.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "score": 3.0,
+      "rationale": "Anonymous Reddit user, no credentials, no track record"
+    },
+    {
+      "dimension": "evidence_quality",
+      "score": 2.0,
+      "rationale": "Single image with no context, no data, no methodology, no explanation"
+    },
+    {
+      "dimension": "reproducibility",
+      "score": 2.0,
+      "rationale": "No setup details, no model specified, no steps to reproduce whatever is being shown"
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "score": 5.0,
+      "rationale": "No obvious commercial angle but r/LocalLLaMA skews toward hype for open models"
+    },
+    {
+      "dimension": "consensus",
+      "score": 4.0,
+      "rationale": "No expert commentary, just Reddit crowd engagement which correlates with entertainment not accuracy"
+    },
+    {
+      "dimension": "specificity",
+      "score": 2.0,
+      "rationale": "Title is 'Interesting loop' -- literally zero specificity about what, why, or how"
+    },
+    {
+      "dimension": "track_record",
+      "score": 3.0,
+      "rationale": "Unknown poster with no established credibility in the space"
+    }
+  ]
+}
