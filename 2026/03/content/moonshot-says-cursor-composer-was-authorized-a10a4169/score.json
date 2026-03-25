@@ -1,0 +1,43 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 6.5,
+  "bs_rating": "High BS",
+  "career_angle": "If you're building on third-party AI APIs, get model provenance guarantees in writing before shipping -- 'reseller' intermediaries like Fireworks create attribution gaps that blow up publicly. This is also a signal that model licensing is becoming a career-relevant legal literacy area for senior engineers.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "score": 4.0,
+      "rationale": "Reddit post citing a Moonshot statement screenshot -- no primary source document, no journalist verification, no contract excerpts"
+    },
+    {
+      "dimension": "evidence_quality",
+      "score": 3.0,
+      "rationale": "Zero evidence beyond Moonshot's own claim. Poster admits 'impossible to know without knowing the private details of the contract.' That's the whole story right there."
+    },
+    {
+      "dimension": "reproducibility",
+      "score": 3.0,
+      "rationale": "Private contracts between Moonshot, Fireworks, and Cursor are unverifiable by anyone outside those three companies"
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "score": 2.5,
+      "rationale": "Moonshot has massive incentive to claim authorization -- the alternative is admitting their model was used without consent, which is embarrassing and legally actionable. Cursor benefits equally from this narrative."
+    },
+    {
+      "dimension": "consensus",
+      "score": 4.0,
+      "rationale": "Community is openly split -- even the original poster hedges with 'or it could be a good story told after the fact'"
+    },
+    {
+      "dimension": "specificity",
+      "score": 3.0,
+      "rationale": "Vague 'partnership' and 'custom license' claims with zero specifics about terms, dates, or scope. Classic corporate non-denial denial."
+    },
+    {
+      "dimension": "track_record",
+      "score": 4.5,
+      "rationale": "Cursor has a pattern of opaque model routing -- this isn't the first time users discovered unlabeled model swaps. Moonshot/Kimi is too new to have established trust on licensing transparency."
+    }
+  ]
+}
