@@ -2,8 +2,11 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 7.0,
   "bs_rating": "High BS",
+  "scored_at": "2026-03-22 03:35:25",
+  "scoring_method": "ai",
+  "summary": "A zero-content image post on r/LocalLLaMA with no verifiable claims, no methodology, and no substance -- just vibes and upvotes masquerading as insight.",
   "career_angle": "Skip meme posts entirely. If you want real local LLM benchmarks, go to lmsys.org leaderboard or run your own evals with lm-evaluation-harness.",
-  "factors": [
+  "dimensions": [
     {
       "dimension": "source_authority",
       "score": 3.0,
