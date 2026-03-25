@@ -1,0 +1,7 @@
+# A Collection of Nice Datasets
+
+Source: [Reddit r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1s0p7hn/a_collection_of_nice_datasets/)
+
+---
+
+<!-- SC_OFF --><div class="md"><p>If anyone in LocalLLaMA still trains models, I made a collection of interesting and nice datasets:</p> <p><a href="https://github.com/Green0-0/llm_datasets/tree/main">https://github.com/Green0-0/llm_datasets/tree/main</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Good-Assumption5582"> /u/Good-Assumption5582 </a> <br/> <span><a href="https://www.reddit.com/r/LocalLLaMA/comments/1s0p7hn/a_collection_of_nice_datasets/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/LocalLLaMA/comments/1s0p7hn/a_collection_of_nice_datasets/">[comments]</a></span>
