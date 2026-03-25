@@ -1,0 +1,17 @@
+{
+  "id": "d33483ba-64b4-4b44-b87d-2b5cce0dd8c6",
+  "title": "ik_llama.cpp gives 26x faster prompt processing on Qwen 3.5 27B \u2014 real world numbers",
+  "source_url": "https://www.reddit.com/r/LocalLLaMA/comments/1s07ysr/ik_llamacpp_gives_26x_faster_prompt_processing_on/",
+  "source_name": "Reddit r/LocalLLaMA",
+  "published_at": "2026-03-22T00:52:53+00:00",
+  "scraped_at": "2026-03-22 03:35:25",
+  "bs_score": 3.5,
+  "bs_rating": "Mixed Evidence",
+  "human_bs_score": null,
+  "human_bs_rating": null,
+  "editorial_comment": null,
+  "category": "community",
+  "ai_summary": "Technically sound claim with a real architectural explanation -- fused GDN kernels eliminating 32 unnecessary graph splits is exactly the kind of optimization that yields order-of-magnitude gains. The 26x headline is eye-catching but the math checks out when you understand Qwen 3.5's hybrid SSM architecture and how poorly mainline llama.cpp handles it.",
+  "approved": true,
+  "author_name": "/u/New-Inspection7034"
+}
