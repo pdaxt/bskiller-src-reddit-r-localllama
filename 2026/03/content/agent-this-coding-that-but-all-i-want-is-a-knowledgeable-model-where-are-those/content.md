@@ -1,0 +1,7 @@
+# Agent this, coding that, but all I want is a KNOWLEDGEABLE model! Where are those?
+
+Source: [Reddit r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1ry49iy/agent_this_coding_that_but_all_i_want_is_a/)
+
+---
+
+<!-- SC_OFF --><div class="md"><p>The thing that brought me to LLMs 3 years ago, was the ability to obtain custom-fit knowledge based on my context, avoiding the pathetic signal-to-noise ratio that the search engines bring.</p> <p>The main focus now even with the huge models, is to make them as agentic as possible, and I can&#39;t help but think that, with the limited number of params, focusing on agentic task will surely degrade model&#39;s performance on other tasks.</p> <p>Are there any LLM labs focusing on training a simple stupid model that has as much knowledge as possible? Basically an offline omniscient wikipedia alternative?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ParaboloidalCrest"> /u/ParaboloidalCrest </a> <br/> <span><a href="https://www.reddit.com/r/LocalLLaMA/comments/1ry49iy/agent_this_coding_that_but_all_i_want_is_a/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/LocalLLaMA/comments/1ry49iy/agent_this_coding_that_but_all_i_want_is_a/">[comments]</a></span>
