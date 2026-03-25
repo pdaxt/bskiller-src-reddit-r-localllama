@@ -1,0 +1,1 @@
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/tarruda"> /u/tarruda </a> <br/> <span><a href="https://x.com/TeksEdge/status/2035063306671857897">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/LocalLLaMA/comments/1rzatbs/apparently_minimax_27_will_be_closed_weights/">[comments]</a></span>
