@@ -1,0 +1,17 @@
+{
+  "id": "58dded8b-68d4-4c6d-adbd-3ada391e52a7",
+  "title": "3x RTX 5090's to a single RTX Pro 6000",
+  "source_url": "https://www.reddit.com/r/LocalLLaMA/comments/1s02h92/3x_rtx_5090s_to_a_single_rtx_pro_6000/",
+  "source_name": "Reddit r/LocalLLaMA",
+  "published_at": "2026-03-21T20:53:47+00:00",
+  "scraped_at": "2026-03-22 00:41:03",
+  "bs_score": 3.0,
+  "bs_rating": "Mostly Credible",
+  "human_bs_score": null,
+  "human_bs_rating": null,
+  "editorial_comment": null,
+  "category": "community",
+  "ai_summary": "Genuine hardware decision thread from a local LLM enthusiast weighing multi-GPU 5090 setups against a single Pro 6000 for VRAM consolidation. No hype, no product shilling -- just a builder with real hardware asking a practical question.",
+  "approved": true,
+  "author_name": "/u/flanconleche"
+}
