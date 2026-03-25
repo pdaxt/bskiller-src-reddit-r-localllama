@@ -1,0 +1,7 @@
+# I feel like if they made a local model focused specifically on RP it would be god tier even if tiny
+
+Source: [Reddit r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1s1q5et/i_feel_like_if_they_made_a_local_model_focused/)
+
+---
+
+<!-- SC_OFF --><div class="md"><p>Like, we’ve seen that the large models don’t actually have that great of datasets. So imagine a local model who is filled to the brim with good quality writing without repeats and without slop. Can we crowdsource the work or something 😂 </p> <p>But then I suppose the problem is that everyone has different opinions of what’s good. I’ve seen people love purple prose!</p> <p>Maybe the real solution is me just renting a gpu and training it on shit lol</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Borkato"> /u/Borkato </a> <br/> <span><a href="https://www.reddit.com/r/LocalLLaMA/comments/1s1q5et/i_feel_like_if_they_made_a_local_model_focused/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/LocalLLaMA/comments/1s1q5et/i_feel_like_if_they_made_a_local_model_focused/">[comments]</a></span>
