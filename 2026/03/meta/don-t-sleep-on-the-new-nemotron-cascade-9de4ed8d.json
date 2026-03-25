@@ -1,0 +1,17 @@
+{
+  "id": "9de4ed8d-f9ce-42da-b3b6-fdd65a363537",
+  "title": "Don't sleep on the new Nemotron Cascade",
+  "source_url": "https://www.reddit.com/r/LocalLLaMA/comments/1rzud2z/dont_sleep_on_the_new_nemotron_cascade/",
+  "source_name": "Reddit r/LocalLLaMA",
+  "published_at": "2026-03-21T15:30:38+00:00",
+  "scraped_at": "2026-03-22 00:41:03",
+  "bs_score": 5.0,
+  "bs_rating": "Mixed Signals",
+  "human_bs_score": null,
+  "human_bs_rating": null,
+  "editorial_comment": null,
+  "category": "community",
+  "ai_summary": "One redditor's self-run benchmarks on a quantized model claiming 97.6% HumanEval -- a score that would beat most frontier models from a 3B active-parameter quant. Extraordinary claims, one person's eval, zero methodology shared.",
+  "approved": true,
+  "author_name": "/u/ilintar"
+}
