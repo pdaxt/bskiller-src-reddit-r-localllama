@@ -1,0 +1,7 @@
+# Why is there no serious resource on building an AI agent from scratch?
+
+Source: [Reddit r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1s2kl1u/why_is_there_no_serious_resource_on_building_an/)
+
+---
+
+<!-- SC_OFF --><div class="md"><p>Not wrap the OpenAI API and slap LangChain on it tutorials. I mean actually engineering the internals like the agent loop, tool calling, memory, planning, context management across large codebases, multi-agent coordination. The real stuff.</p> <p>Every search returns the same surface level content. Use CrewAI. Use AutoGen, cool but what&#39;s actually happening under the hood and how do I build that myself from zero? Solid engineering background, not a beginner. Looking for serious GitHub repos, papers, anything that goes deeper than a YouTube thumbnail saying “Build an AI Agent in 10 minutes.&quot;</p> <p>Does this resource exist or are we all just stacking abstractions on abstractions?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Complete_Bee4911"> /u/Complete_Bee4911 </a> <br/> <span><a href="https://www.reddit.com/r/LocalLLaMA/comments/1s2kl1u/why_is_there_no_serious_resource_on_building_an/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/LocalLLaMA/comments/1s2kl1u/why_is_there_no_serious_resource_on_building_an/">[comments]</a></span>
