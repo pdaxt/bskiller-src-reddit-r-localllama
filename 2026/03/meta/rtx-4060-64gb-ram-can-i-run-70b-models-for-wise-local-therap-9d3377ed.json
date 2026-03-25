@@ -1,0 +1,17 @@
+{
+  "id": "9d3377ed-c37b-4bec-94be-8fb6dbe1b514",
+  "title": "RTX 4060 + 64GB RAM: Can I run 70B models for \"wise\" local therapy without the maintenance headache?",
+  "source_url": "https://www.reddit.com/r/LocalLLaMA/comments/1s06qlb/rtx_4060_64gb_ram_can_i_run_70b_models_for_wise/",
+  "source_name": "Reddit r/LocalLLaMA",
+  "published_at": "2026-03-21T23:58:00+00:00",
+  "scraped_at": "2026-03-22 00:41:04",
+  "bs_score": 4.8,
+  "bs_rating": "Mostly Credible",
+  "human_bs_score": null,
+  "human_bs_rating": null,
+  "editorial_comment": null,
+  "category": "community",
+  "ai_summary": "RTX 4060 has 8GB VRAM -- you're not running 70B on GPU, you're running it on CPU RAM at 1-2 tokens/sec while pretending that's therapy. The 'zero maintenance local AI' fantasy collides hard with reality the moment llama.cpp updates break your quantization format.",
+  "approved": true,
+  "author_name": "/u/Terryyibvcg"
+}
