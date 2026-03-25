@@ -1,0 +1,7 @@
+# Lemonade SDK on Strix Halo
+
+Source: [Reddit r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1s2v7xg/lemonade_sdk_on_strix_halo/)
+
+---
+
+<!-- SC_OFF --><div class="md"><p>Just for whoever might find it useful, I recently converted over from base setup llama.cpp to Lemonade SDK on my AMD Strix Halo and it instantly feels so much better. I’m seeing on average 20% bumps in tokens per second running the same models on the same hardware. </p> <p>AMD specific, and might take some tweaking but it’s been a huge quality of life improvement for me. Like actually going back and forth with agents, deep research running smooth, a lot of things that felt like they could hang it up before are moving much cleaner and faster. Either way, just sharing. Genuinely feels like a different planet for this $2,500 machine now. Wanted to mention.</p> <p>Qwen3-Coder-Next: From 70 tokens per second average, to 90 tokens per second average all other things being equal.</p> <p>Also if you are on a budget the Halo is a genuinely awesome machine. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Signal_Ad657"> /u/Signal_Ad657 </a> <br/> <span><a href="https://www.reddit.com/r/LocalLLaMA/comments/1s2v7xg/lemonade_sdk_on_strix_halo/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/LocalLLaMA/comments/1s2v7xg/lemonade_sdk_on_strix_halo/">[comments]</a></span>
