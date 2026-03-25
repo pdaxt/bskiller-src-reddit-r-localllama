@@ -1,0 +1,17 @@
+{
+  "id": "4583dbf3-7017-4ebb-82c3-19941ebca07c",
+  "title": "FeatherOps: Fast fp8 matmul on RDNA3 without native fp8",
+  "source_url": "https://www.reddit.com/r/LocalLLaMA/comments/1s0a3fg/featherops_fast_fp8_matmul_on_rdna3_without/",
+  "source_name": "Reddit r/LocalLLaMA",
+  "published_at": "2026-03-22T02:33:48+00:00",
+  "scraped_at": "2026-03-22 03:35:26",
+  "bs_score": 3.3,
+  "bs_rating": "Mixed Evidence",
+  "human_bs_score": null,
+  "human_bs_rating": null,
+  "editorial_comment": null,
+  "category": "community",
+  "ai_summary": "Legit kernel hack exploiting RDNA3's fp16 units to emulate fp8 matmul, with open source code to back it up. Developer is refreshingly honest that it's a proof of concept, not a miracle.",
+  "approved": true,
+  "author_name": "/u/woct0rdho"
+}
