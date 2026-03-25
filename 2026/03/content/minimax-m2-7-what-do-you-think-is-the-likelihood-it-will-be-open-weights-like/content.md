@@ -1,0 +1,7 @@
+# MiniMax-M2.7: what do you think is the likelihood it will be open weights like M2.5?
+
+Source: [Reddit r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1ry7exr/minimaxm27_what_do_you_think_is_the_likelihood_it/)
+
+---
+
+<!-- SC_OFF --><div class="md"><p>With M2.7 nipping at the heels of Opus 4.6 et al., do you think MiniMaxAI will now pivot to closed API-only access? Will they maintain an open-weights friendly stance?</p> <p>I for one am crossing my fingers and praying to all the gods of LLMs that they keep releasing!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/__JockY__"> /u/__JockY__ </a> <br/> <span><a href="https://www.reddit.com/r/LocalLLaMA/comments/1ry7exr/minimaxm27_what_do_you_think_is_the_likelihood_it/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/LocalLLaMA/comments/1ry7exr/minimaxm27_what_do_you_think_is_the_likelihood_it/">[comments]</a></span>
