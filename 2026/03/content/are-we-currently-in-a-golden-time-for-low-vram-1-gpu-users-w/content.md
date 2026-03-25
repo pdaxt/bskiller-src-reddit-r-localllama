@@ -1,0 +1,3 @@
+# Are we currently in a "Golden Time" for low VRAM/1 GPU users with Qwen 27b?
+
+<!-- SC_OFF --><div class="md"><p>Really loving Qwen 27b more than any other llm from when I can remember. It works so well. Having 48gb vram can anyone recommend any other alternatives? It seems that 24gb is enough and currently I can&#39;t think of any other open model to use. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/inthesearchof"> /u/inthesearchof </a> <br/> <span><a href="https://www.reddit.com/r/LocalLLaMA/comments/1s1z17h/are_we_currently_in_a_golden_time_for_low_vram1/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/LocalLLaMA/comments/1s1z17h/are_we_currently_in_a_golden_time_for_low_vram1/">[comments]</a></span>
