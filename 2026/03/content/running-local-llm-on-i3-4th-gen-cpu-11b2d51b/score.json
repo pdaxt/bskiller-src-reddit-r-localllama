@@ -2,8 +2,11 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 2.0,
   "bs_rating": "Verified",
+  "scored_at": "2026-03-22 00:41:04",
+  "scoring_method": "ai",
+  "summary": "Someone with a 2013 potato PC asking what LLMs they can actually run. No hype, no claims -- just honest hardware poverty seeking real answers.",
   "career_angle": "If you can optimize inference on decade-old hardware, you understand constraints most AI engineers never face. That skill translates directly to edge deployment and embedded AI roles.",
-  "factors": [
+  "dimensions": [
     {
       "dimension": "source_authority",
       "score": 6.0,
