@@ -1,0 +1,60 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 5.8,
+  "bs_rating": "Mixed Evidence",
+  "scored_at": "2026-03-24 04:14:05",
+  "scoring_method": "heuristic",
+  "summary": "",
+  "career_angle": "Open-source contributions build career capital. Star promising repos early, contribute to ones in your domain, and build your GitHub profile.",
+  "dimensions": [
+    {
+      "dimension": "source_authority",
+      "name": "Source Authority",
+      "rationale": "'KLD measurements of 8 different llama.cpp KV cache quanti...' -- Reddit r/LocalLLaMA is lower-tier or promotional source (tier_4, reliability: 40%) reporting on Mistral, Llama",
+      "score": 3.5,
+      "weight": 0.15
+    },
+    {
+      "dimension": "evidence_quality",
+      "name": "Evidence Quality",
+      "rationale": "specific figures cited: '<li>I&#39;m not 100%'",
+      "score": 3.0,
+      "weight": 0.2
+    },
+    {
+      "dimension": "reproducibility",
+      "name": "Reproducibility",
+      "rationale": "links to GitHub repository; methodology described",
+      "score": 8.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "name": "Conflict of Interest",
+      "rationale": "Reddit r/LocalLLaMA reporting on Mistral/Llama -- source has direct financial interest in this claim",
+      "score": 3.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "consensus",
+      "name": "Consensus",
+      "rationale": "hedging language ('up to ') suggests the source itself isn't confident",
+      "score": 4.5,
+      "weight": 0.15
+    },
+    {
+      "dimension": "specificity",
+      "name": "Specificity",
+      "rationale": "vague hedging: 'up to '; cites concrete figures: '<li>I&#39;m not 100%'",
+      "score": 3.7,
+      "weight": 0.1
+    },
+    {
+      "dimension": "track_record",
+      "name": "Track Record",
+      "rationale": "Reddit r/LocalLLaMA on Mistral/Llama topics -- limited or inconsistent track record",
+      "score": 3.5,
+      "weight": 0.1
+    }
+  ]
+}
