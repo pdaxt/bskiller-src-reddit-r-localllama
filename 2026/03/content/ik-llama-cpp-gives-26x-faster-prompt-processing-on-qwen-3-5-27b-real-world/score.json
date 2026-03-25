@@ -1,0 +1,60 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 3.5,
+  "bs_rating": "Mixed Evidence",
+  "scored_at": "2026-03-25T14:14:23Z",
+  "scoring_method": "heuristic",
+  "career_angle": "If you're running local LLMs for agentic coding, learning to evaluate inference backends (not just models) is a force multiplier. Knowing when to switch from mainline to optimized forks like ik_llama.cpp separates hobbyists from practitioners who ship.",
+  "flagged_for_debate": false,
+  "dimensions": [
+    {
+      "id": "source_authority",
+      "name": "Unknown",
+      "score": 5.0,
+      "weight": 0.0,
+      "rationale": "Anonymous Reddit user, but r/LocalLLaMA is a technically literate community that self-polices BS claims aggressively"
+    },
+    {
+      "id": "evidence_quality",
+      "name": "Unknown",
+      "score": 8.0,
+      "weight": 0.0,
+      "rationale": "Specific before/after benchmarks, exact hardware specs, software versions, and a coherent technical explanation for WHY the improvement exists (graph splits 34 to 2)"
+    },
+    {
+      "id": "reproducibility",
+      "name": "Unknown",
+      "score": 8.0,
+      "weight": 0.0,
+      "rationale": "All hardware, model quantization (Q4_K_M), context length (131K), KV cache config, and software versions provided -- anyone with similar hardware can verify"
+    },
+    {
+      "id": "conflict_of_interest",
+      "name": "Unknown",
+      "score": 5.0,
+      "weight": 0.0,
+      "rationale": "Unclear if poster contributes to ik_llama.cpp fork -- enthusiast evangelism is possible but no commercial motive detected"
+    },
+    {
+      "id": "consensus",
+      "name": "Unknown",
+      "score": 6.0,
+      "weight": 0.0,
+      "rationale": "ik_llama.cpp's fused kernel advantages are known in the community, but 26x specifically for Qwen 3.5 is a fresh claim awaiting broader validation"
+    },
+    {
+      "id": "specificity",
+      "name": "Unknown",
+      "score": 9.0,
+      "weight": 0.0,
+      "rationale": "Exact tok/sec numbers, multipliers, graph split counts, GPU utilization states, and startup log output -- this is how real benchmarks should be reported"
+    },
+    {
+      "id": "track_record",
+      "name": "Unknown",
+      "score": 4.0,
+      "weight": 0.0,
+      "rationale": "Unknown poster history, single data point from one hardware config -- credible but unverified beyond this post"
+    }
+  ]
+}
