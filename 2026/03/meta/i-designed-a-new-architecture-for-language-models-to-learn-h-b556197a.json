@@ -1,0 +1,17 @@
+{
+  "id": "b556197a-9ee6-4254-8b99-d0ea97e92a92",
+  "title": "I designed a new architecture for language models to learn how to speak by starting with an empty dataset & only using accumulating memory.",
+  "source_url": "https://www.reddit.com/r/LocalLLaMA/comments/1s002h7/i_designed_a_new_architecture_for_language_models/",
+  "source_name": "Reddit r/LocalLLaMA",
+  "published_at": "2026-03-21T19:15:50+00:00",
+  "scraped_at": "2026-03-22 00:41:03",
+  "bs_score": 7.5,
+  "bs_rating": "High BS",
+  "human_bs_score": null,
+  "human_bs_rating": null,
+  "editorial_comment": null,
+  "category": "community",
+  "ai_summary": "A Reddit user claims to have designed a novel language model architecture that learns from scratch using only accumulating memory -- with zero peer review, no benchmarks, and proof-of-concept that amounts to teaching it to say 'hi Spaceman'. This is a science fair project wearing a research paper's clothes.",
+  "approved": true,
+  "author_name": "/u/Helpful-Series132"
+}
