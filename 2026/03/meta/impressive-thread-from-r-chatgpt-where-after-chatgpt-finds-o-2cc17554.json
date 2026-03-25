@@ -1,0 +1,17 @@
+{
+  "id": "2cc17554-a47c-4699-a64e-2b6c5b37e892",
+  "title": "Impressive thread from /r/ChatGPT, where after ChatGPT finds out no 7Zip, tar, py7zr, apt-get, Internet, it just manually parsed and unzipped from hex data of the .7z file. What model + prompts would be able to do this?",
+  "source_url": "https://www.reddit.com/r/LocalLLaMA/comments/1s0mmsn/impressive_thread_from_rchatgpt_where_after/",
+  "source_name": "Reddit r/LocalLLaMA",
+  "published_at": "2026-03-22T14:10:49+00:00",
+  "scraped_at": "2026-03-23 06:27:10",
+  "bs_score": 3.9,
+  "bs_rating": "mixed",
+  "human_bs_score": null,
+  "human_bs_rating": null,
+  "editorial_comment": null,
+  "category": "community",
+  "ai_summary": null,
+  "approved": true,
+  "author_name": "/u/jinnyjuice"
+}
