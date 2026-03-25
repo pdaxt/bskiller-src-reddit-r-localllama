@@ -1,0 +1,17 @@
+{
+  "id": "9f106f46-d5e2-423f-aa38-6ad1b760a8d4",
+  "title": "I wrote a PowerShell script to sweep llama.cpp MoE nCpuMoe vs batch settings",
+  "source_url": "https://www.reddit.com/r/LocalLLaMA/comments/1s01jym/i_wrote_a_powershell_script_to_sweep_llamacpp_moe/",
+  "source_name": "Reddit r/LocalLLaMA",
+  "published_at": "2026-03-21T20:15:49+00:00",
+  "scraped_at": "2026-03-22 00:41:04",
+  "bs_score": 2.2,
+  "bs_rating": "Verified",
+  "human_bs_score": null,
+  "human_bs_rating": null,
+  "editorial_comment": null,
+  "category": "community",
+  "ai_summary": "A developer shared a real benchmarking script for llama.cpp MoE settings with actual methodology and results. This is hands-on engineering work, not hype -- exactly the kind of practical tooling the local AI community needs.",
+  "approved": true,
+  "author_name": "/u/TheLastSpark"
+}
