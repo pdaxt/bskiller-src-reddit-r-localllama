@@ -1,0 +1,60 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 5.7,
+  "bs_rating": "Mixed Evidence",
+  "scored_at": "2026-03-25T13:51:09Z",
+  "scoring_method": "heuristic",
+  "career_angle": "LLM developments affect every developer. Understand the capabilities and limitations - knowing what AI can't do is as valuable as knowing what it can.",
+  "flagged_for_debate": false,
+  "dimensions": [
+    {
+      "id": "source_authority",
+      "name": "Source Authority",
+      "score": 3.5,
+      "weight": 0.15,
+      "rationale": "'Jake Benchmark v1: I spent a week watching 7 local LLMs t...' -- Reddit r/LocalLLaMA is lower-tier or promotional source (tier_4, reliability: 40%)"
+    },
+    {
+      "id": "evidence_quality",
+      "name": "Evidence Quality",
+      "score": 4.5,
+      "weight": 0.2,
+      "rationale": "mentions benchmarks or datasets; specific figures cited: '5:27b-q4_K_M at 59.4%', '5b) scored only 23.2%', 'ing else was below 5%'"
+    },
+    {
+      "id": "reproducibility",
+      "name": "Reproducibility",
+      "score": 4.0,
+      "weight": 0.15,
+      "rationale": "'Jake Benchmark v1: I spent a week watching 7 local LLMs t...' -- no code, methodology, or reproducibility details provided"
+    },
+    {
+      "id": "conflict_of_interest",
+      "name": "Conflict of Interest",
+      "score": 5.0,
+      "weight": 0.15,
+      "rationale": "'Jake Benchmark v1: I spent a week watching 7 local LLMs t...' -- no overt promotional language from Reddit r/LocalLLaMA, but independence not confirmed"
+    },
+    {
+      "id": "consensus",
+      "name": "Consensus",
+      "score": 5.0,
+      "weight": 0.15,
+      "rationale": "'Jake Benchmark v1: I spent a week watching 7 local LLMs t...' -- not cross-referenced against external expert consensus"
+    },
+    {
+      "id": "specificity",
+      "name": "Specificity",
+      "score": 4.5,
+      "weight": 0.1,
+      "rationale": "cites concrete figures: '5:27b-q4_K_M at 59.4%', '5b) scored only 23.2%', 'ing else was below 5%'"
+    },
+    {
+      "id": "track_record",
+      "name": "Track Record",
+      "score": 3.5,
+      "weight": 0.1,
+      "rationale": "Reddit r/LocalLLaMA -- limited or inconsistent track record"
+    }
+  ]
+}
