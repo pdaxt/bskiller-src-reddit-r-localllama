@@ -1,0 +1,17 @@
+{
+  "id": "11a262d1-fc26-49e4-9781-e476ffc52d4e",
+  "title": "Nemotron-3-Super Uncensored Only 43GB (mac only) scores 95.7% on MMLU.",
+  "source_url": "https://www.reddit.com/r/LocalLLaMA/comments/1rzocd6/nemotron3super_uncensored_only_43gb_mac_only/",
+  "source_name": "Reddit r/LocalLLaMA",
+  "published_at": "2026-03-21T10:43:11+00:00",
+  "scraped_at": "2026-03-22 00:41:03",
+  "bs_score": 8.2,
+  "bs_rating": "High BS",
+  "human_bs_score": null,
+  "human_bs_rating": null,
+  "editorial_comment": null,
+  "category": "community",
+  "ai_summary": "Random Reddit user claims their franken-model beats GPT-4 on MMLU by nearly 10 points from a HuggingFace account called 'dealignai' with 'CRACK' in the filename. The 95.7% MMLU claim would be state-of-the-art by a massive margin -- extraordinary claims, zero methodology.",
+  "approved": true,
+  "author_name": "/u/HealthyCommunicat"
+}
