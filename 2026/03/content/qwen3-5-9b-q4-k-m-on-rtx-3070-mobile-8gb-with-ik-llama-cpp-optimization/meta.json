@@ -1,0 +1,8 @@
+{
+  "id": "06d91ccf-0065-491b-9a95-323efadec438",
+  "published_at": "2026-03-21T17:41:45+00:00",
+  "scraped_at": "2026-03-22 00:41:04",
+  "source": "Reddit r/LocalLLaMA",
+  "title": "Qwen3.5-9B.Q4_K_M on RTX 3070 Mobile (8GB) with ik_llama.cpp — optimization findings + ~50 t/s gen speed, looking for tips",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rzxoki/qwen359bq4_k_m_on_rtx_3070_mobile_8gb_with_ik/"
+}
