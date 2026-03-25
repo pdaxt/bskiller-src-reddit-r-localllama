@@ -1,0 +1,7 @@
+# Jake Benchmark v1: I spent a week watching 7 local LLMs try to be AI agents with OpenClaw. Most couldn't even find the email tool.
+
+Source: [Reddit r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1s1oaid/jake_benchmark_v1_i_spent_a_week_watching_7_local/)
+
+---
+
+<!-- SC_OFF --><div class="md"><p>I tested 7 local models on 22 real agent tasks using OpenClaw on a Raspberry Pi 5 with an RTX 3090 running Ollama.</p> <p>Tasks included reading emails, scheduling meetings, creating tasks, detecting phishing, handling errors, and browser automation.</p> <p>The winner by a massive margin: qwen3.5:27b-q4_K_M at 59.4%. The runner up (qwen3.5:35b) scored only 23.2%. Everything else was below 5%.</p> <p>Biggest surprises:</p> <p>The quantized 27B model beat the larger 35B version by 2.5x. A 30B model scored dead last at 1.6%. Medium thinking worked best. Too much thinking actually hurt performance. Zero models could complete browser automation. The main thing that separated winners from losers was whether the model could find and use command line tools.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Emergency_Ant_843"> /u/Emergency_Ant_843 </a> <br/> <span><a href="https://www.reddit.com/r/LocalLLaMA/comments/1s1oaid/jake_benchmark_v1_i_spent_a_week_watching_7_local/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/LocalLLaMA/comments/1s1oaid/jake_benchmark_v1_i_spent_a_week_watching_7_local/">[comments]</a></span>
