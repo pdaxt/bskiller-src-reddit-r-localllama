@@ -1,0 +1,43 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 5.3,
+  "bs_rating": "Mixed Evidence",
+  "career_angle": "Running large MoE models locally is a legit skill gap worth filling. Learn GGUF quantization trade-offs and abliteration techniques, but benchmark everything yourself -- never trust the uploader's self-reported evals.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "score": 4.0,
+      "rationale": "Random HuggingFace user on Reddit, not the Qwen team or a recognized safety research lab. No institutional backing for the 'uncensoring' methodology."
+    },
+    {
+      "dimension": "evidence_quality",
+      "score": 3.0,
+      "rationale": "Claims 0/465 refusals and 'zero capability loss' with zero benchmark comparisons, no perplexity scores, no MMLU/HellaSwag deltas. 'From my own testing: 0 issues' is not evidence."
+    },
+    {
+      "dimension": "reproducibility",
+      "score": 7.0,
+      "rationale": "GGUF weights are publicly downloadable and loadable in standard tooling. Anyone can verify refusal behavior and run benchmarks themselves."
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "score": 4.0,
+      "rationale": "Creator promoting their own release with breathless marketing copy and self-branded 'K_P Perfect' quant naming. Clear incentive to oversell capability retention."
+    },
+    {
+      "dimension": "consensus",
+      "score": 6.0,
+      "rationale": "Abliteration and uncensoring are well-documented techniques that work. But 'zero capability loss' contradicts most research showing some degradation from safety layer removal."
+    },
+    {
+      "dimension": "specificity",
+      "score": 5.0,
+      "rationale": "Specific on refusal count (0/465) and file formats, but vague on methodology, training details, and completely absent on standard benchmarks that would validate the 'no degradation' claim."
+    },
+    {
+      "dimension": "track_record",
+      "score": 5.0,
+      "rationale": "HauhauCS has prior uncensored releases on HuggingFace with community traction, but no published research or peer-reviewed validation of their abliteration approach."
+    }
+  ]
+}
