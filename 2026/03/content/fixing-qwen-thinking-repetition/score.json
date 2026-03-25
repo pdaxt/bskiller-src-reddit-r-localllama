@@ -2,6 +2,59 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 6.0,
   "bs_rating": "Mixed Signals",
-  "scored_at": "2026-03-25T13:36:46.303226+00:00",
-  "flagged_for_debate": false
+  "scored_at": "2026-03-25T14:15:22Z",
+  "scoring_method": "heuristic",
+  "career_angle": "If you run local LLMs, understanding sampling parameters (presence/frequency penalty, temperature) matters more than cargo-culting system prompts. Learn what repetition penalty actually does at the token level.",
+  "flagged_for_debate": false,
+  "dimensions": [
+    {
+      "id": "source_authority",
+      "name": "Unknown",
+      "score": 4.0,
+      "weight": 0.0,
+      "rationale": "Anonymous Reddit user with no demonstrated ML expertise, single post on r/LocalLLaMA"
+    },
+    {
+      "id": "evidence_quality",
+      "name": "Unknown",
+      "score": 3.0,
+      "weight": 0.0,
+      "rationale": "Pure anecdote -- one user, one model, one quant, no A/B testing, no metrics, just 'it works for me'"
+    },
+    {
+      "id": "reproducibility",
+      "name": "Unknown",
+      "score": 5.0,
+      "weight": 0.0,
+      "rationale": "Specific enough setup details (q6k static, 27B, llama.cpp, 1.5 presence penalty) that others could try it, but no one has confirmed"
+    },
+    {
+      "id": "conflict_of_interest",
+      "name": "Unknown",
+      "score": 8.0,
+      "weight": 0.0,
+      "rationale": "No commercial motive, genuine community sharing -- just someone trying to help others with an annoyance"
+    },
+    {
+      "id": "consensus",
+      "name": "Unknown",
+      "score": 4.0,
+      "weight": 0.0,
+      "rationale": "No community validation yet, contradicts understanding that system prompt content shouldn't fundamentally change repetition behavior -- presence penalty is the likelier fix"
+    },
+    {
+      "id": "specificity",
+      "name": "Unknown",
+      "score": 5.0,
+      "weight": 0.0,
+      "rationale": "Lists model, quant method, penalty settings, but the actual causal mechanism is vague -- 'long system prompts might also work' undermines the specific claim"
+    },
+    {
+      "id": "track_record",
+      "name": "Unknown",
+      "score": 5.0,
+      "weight": 0.0,
+      "rationale": "Unknown poster, no history of LLM research contributions, but r/LocalLLaMA community does surface real findings occasionally"
+    }
+  ]
 }
