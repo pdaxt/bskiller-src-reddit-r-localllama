@@ -1,0 +1,7 @@
+# Will they or won’t they? Why they gotta toy with our emotions?
+
+Source: [Reddit r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1s06q6g/will_they_or_wont_they_why_they_gotta_toy_with/)
+
+---
+
+<table> <tr><td> <a href="https://www.reddit.com/r/LocalLLaMA/comments/1s06q6g/will_they_or_wont_they_why_they_gotta_toy_with/"> <img src="https://preview.redd.it/ih3rhfcilhqg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=42a7131c8040707d4913157f6145ddcdf40d8c41" alt="Will they or won’t they? Why they gotta toy with our emotions?" title="Will they or won’t they? Why they gotta toy with our emotions?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I get that you don’t always want to give away your best stuff, but man, I would hate if they didn’t put this out to us Local folks. Fingers crossed 🤞 that they give it a full open source / open weights release. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Porespellar"> /u/Porespellar </a> <br/> <span><a href="https://i.redd.it/ih3rhfcilhqg1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/LocalLLaMA/comments/1s06q6g/will_they_or_wont_they_why_they_gotta_toy_with/">[comments]</a></span> </td></tr></table>
