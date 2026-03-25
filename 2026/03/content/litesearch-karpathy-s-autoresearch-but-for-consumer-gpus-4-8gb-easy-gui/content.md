@@ -1,0 +1,7 @@
+# Litesearch: Karpathy's autoresearch but for consumer GPUs (4–8GB) + easy GUI
+
+Source: [Reddit r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1s050fg/litesearch_karpathys_autoresearch_but_for/)
+
+---
+
+<!-- SC_OFF --><div class="md"><p>Karpathy&#39;s autoresearch is awesome — agent edits <a href="http://train.py">train.py</a> and runs tiny LLM experiments overnight. But it wants serious VRAM.</p> <p>I forked it to run on normal cards like my 1080/3060:</p> <ul> <li>Auto-picks model size/depth/batch/seq len so it fits your VRAM (leaves buffer, no more OOM surprises)</li> <li>Simple dark GUI dashboard: live VRAM bar, logs, config preview, start/stop — no terminal staring</li> <li>Stripped fancy kernels (uses torch sdpa), easier setup, works on older Pascal too</li> </ul> <p>Quick table example (full in README):<br/> 4GB → ~86M params<br/> 8GB → ~285M params<br/> (Currently NVIDIA-only and works on every of their GPUs)</p> <p>Repo: <a href="https://github.com/jlippp/litesearch">https://github.com/jlippp/litesearch</a><br/> MIT, quick pip/uv install.</p> <p>(Props to Karpathy for the original idea.)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Fast-Mousse405"> /u/Fast-Mousse405 </a> <br/> <span><a href="https://www.reddit.com/r/LocalLLaMA/comments/1s050fg/litesearch_karpathys_autoresearch_but_for/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/LocalLLaMA/comments/1s050fg/litesearch_karpathys_autoresearch_but_for/">[comments]</a></span>
