@@ -1,0 +1,17 @@
+{
+  "id": "7f68321e-380b-4b73-9ebc-7bc0bb9c7466",
+  "title": "Since FastFlowLM added support for Linux, I decided to benchmark all the models they support, here are some results",
+  "source_url": "https://www.reddit.com/r/LocalLLaMA/comments/1rzq981/since_fastflowlm_added_support_for_linux_i/",
+  "source_name": "Reddit r/LocalLLaMA",
+  "published_at": "2026-03-21T12:30:27+00:00",
+  "scraped_at": "2026-03-22 00:41:04",
+  "bs_score": 2.5,
+  "bs_rating": "Mostly Credible",
+  "human_bs_score": null,
+  "human_bs_rating": null,
+  "editorial_comment": null,
+  "category": "community",
+  "ai_summary": "Straightforward community benchmark with real numbers on real hardware -- the kind of post r/LocalLLaMA exists for. No hype, no product pitch, just a user sharing raw pp/tg data across models and context depths.",
+  "approved": true,
+  "author_name": "/u/spaceman_"
+}
