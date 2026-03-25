@@ -1,0 +1,17 @@
+{
+  "id": "925094db-7818-4b95-a49a-2eed69dabf71",
+  "title": "Fixing Qwen thinking repetition",
+  "source_url": "https://www.reddit.com/r/LocalLLaMA/comments/1rzsehn/fixing_qwen_thinking_repetition/",
+  "source_name": "Reddit r/LocalLLaMA",
+  "published_at": "2026-03-21T14:08:32+00:00",
+  "scraped_at": "2026-03-22 00:41:03",
+  "bs_score": 6.0,
+  "bs_rating": "Mixed Signals",
+  "human_bs_score": null,
+  "human_bs_rating": null,
+  "editorial_comment": null,
+  "category": "community",
+  "ai_summary": "One Reddit user claims pasting Claude's system prompt into Qwen 3.5 fixes thinking repetition -- a classic 'worked on my machine' anecdote with zero controlled testing. Presence penalty at 1.5 is doing most of the heavy lifting here, not the system prompt magic.",
+  "approved": true,
+  "author_name": "/u/Tccybo"
+}
