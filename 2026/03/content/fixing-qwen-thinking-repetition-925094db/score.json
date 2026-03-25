@@ -1,0 +1,43 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 6.0,
+  "bs_rating": "Mixed Signals",
+  "career_angle": "If you run local LLMs, understanding sampling parameters (presence/frequency penalty, temperature) matters more than cargo-culting system prompts. Learn what repetition penalty actually does at the token level.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "score": 4.0,
+      "rationale": "Anonymous Reddit user with no demonstrated ML expertise, single post on r/LocalLLaMA"
+    },
+    {
+      "dimension": "evidence_quality",
+      "score": 3.0,
+      "rationale": "Pure anecdote -- one user, one model, one quant, no A/B testing, no metrics, just 'it works for me'"
+    },
+    {
+      "dimension": "reproducibility",
+      "score": 5.0,
+      "rationale": "Specific enough setup details (q6k static, 27B, llama.cpp, 1.5 presence penalty) that others could try it, but no one has confirmed"
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "score": 8.0,
+      "rationale": "No commercial motive, genuine community sharing -- just someone trying to help others with an annoyance"
+    },
+    {
+      "dimension": "consensus",
+      "score": 4.0,
+      "rationale": "No community validation yet, contradicts understanding that system prompt content shouldn't fundamentally change repetition behavior -- presence penalty is the likelier fix"
+    },
+    {
+      "dimension": "specificity",
+      "score": 5.0,
+      "rationale": "Lists model, quant method, penalty settings, but the actual causal mechanism is vague -- 'long system prompts might also work' undermines the specific claim"
+    },
+    {
+      "dimension": "track_record",
+      "score": 5.0,
+      "rationale": "Unknown poster, no history of LLM research contributions, but r/LocalLLaMA community does surface real findings occasionally"
+    }
+  ]
+}
