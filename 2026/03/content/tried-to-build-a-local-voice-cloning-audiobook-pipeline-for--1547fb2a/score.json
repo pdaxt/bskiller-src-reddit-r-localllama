@@ -1,0 +1,43 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 2.0,
+  "bs_rating": "Mostly Credible",
+  "career_angle": "If you speak an underrepresented language and know ML, fine-tuning TTS models for underserved Cyrillic languages is a genuine gap with commercial potential. The RTX 5070 Ti PyTorch incompatibility is temporary but flags the real cost of being an early adopter on new GPU architectures.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "score": 6.0,
+      "rationale": "Anonymous Reddit user, but r/LocalLLaMA is a credible technical community and this is appropriately scoped as personal experience, not expert proclamation"
+    },
+    {
+      "dimension": "evidence_quality",
+      "score": 8.0,
+      "rationale": "Specific hardware specs (RTX 5070 Ti, 64GB RAM), exact software versions, precise failure modes described. First-hand testing with reproducible details"
+    },
+    {
+      "dimension": "reproducibility",
+      "score": 7.0,
+      "rationale": "XTTS-v2 lacking Bulgarian support is documented fact. PyTorch nightly requirement for Blackwell GPUs is a known issue. Claims are independently verifiable"
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "score": 9.0,
+      "rationale": "No product promotion, no affiliate links, no sponsorship. Pure frustration post seeking community help"
+    },
+    {
+      "dimension": "consensus",
+      "score": 7.0,
+      "rationale": "XTTS-v2 language limitations and Blackwell compatibility gaps are well-documented in the community. Nothing controversial here"
+    },
+    {
+      "dimension": "specificity",
+      "score": 8.0,
+      "rationale": "Exact GPU model, exact software names and versions, specific failure behaviors (Russian accent output, model loading failures). High detail throughout"
+    },
+    {
+      "dimension": "track_record",
+      "score": 5.0,
+      "rationale": "Anonymous Reddit account with no established track record to assess either way"
+    }
+  ]
+}
