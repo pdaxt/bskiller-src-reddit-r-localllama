@@ -1,0 +1,7 @@
+# I need Local LLM that can search and process local Wikipedia.
+
+Source: [Reddit r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1s0tevq/i_need_local_llm_that_can_search_and_process/)
+
+---
+
+<!-- SC_OFF --><div class="md"><p>I had an idea it would be great to have a local LLM that can use offline wikipedia for it&#39;s knowledge base, but not to load it completely because it&#39;s too large - but to search it and process the results via one of the open source LLMs. It can search multiple pages on the topic and form an answer with sources.<br/> Since I am certain I&#39;m not the first to think of that, is there an open source solution to solve this?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/idleWizard"> /u/idleWizard </a> <br/> <span><a href="https://www.reddit.com/r/LocalLLaMA/comments/1s0tevq/i_need_local_llm_that_can_search_and_process/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/LocalLLaMA/comments/1s0tevq/i_need_local_llm_that_can_search_and_process/">[comments]</a></span>
