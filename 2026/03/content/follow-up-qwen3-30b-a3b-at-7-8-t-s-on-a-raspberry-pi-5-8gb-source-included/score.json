@@ -2,6 +2,59 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 6.8,
   "bs_rating": "Mixed Signals",
-  "scored_at": "2026-03-25T14:13:19.027178+00:00",
-  "flagged_for_debate": true
+  "scored_at": "2026-03-25T14:20:32Z",
+  "scoring_method": "heuristic",
+  "career_angle": "Open-source contributions build career capital. Star promising repos early, contribute to ones in your domain, and build your GitHub profile.",
+  "flagged_for_debate": true,
+  "dimensions": [
+    {
+      "id": "source_authority",
+      "name": "Source Authority",
+      "score": 3.0,
+      "weight": 0.15,
+      "rationale": "Reddit r/LocalLLaMA classified as tier_4 (lower-tier or promotional source, reliability: 40%); 13 source links cited"
+    },
+    {
+      "id": "evidence_quality",
+      "name": "Evidence Quality",
+      "score": 2.0,
+      "weight": 0.2,
+      "rationale": "high citation density (33.3/1k words)"
+    },
+    {
+      "id": "reproducibility",
+      "name": "Reproducibility",
+      "score": 6.0,
+      "weight": 0.15,
+      "rationale": "open source / code available; contains data tables/figures"
+    },
+    {
+      "id": "conflict_of_interest",
+      "name": "Conflict of Interest",
+      "score": 4.0,
+      "weight": 0.15,
+      "rationale": "no overt promotional language in this Reddit r/LocalLLaMA piece, independence unconfirmed"
+    },
+    {
+      "id": "consensus",
+      "name": "Consensus",
+      "score": 3.2,
+      "weight": 0.15,
+      "rationale": "high hype (6.5/10) -- claim ahead of consensus; 1 vague patterns suggest uncertain consensus; 13 references cited -- broad sourcing"
+    },
+    {
+      "id": "specificity",
+      "name": "Specificity",
+      "score": 2.5,
+      "weight": 0.1,
+      "rationale": "1 vague patterns: up to ; heavy hype language reduces specificity; contains specific numbers/data; contains data tables/figures"
+    },
+    {
+      "id": "track_record",
+      "name": "Track Record",
+      "score": 1.0,
+      "weight": 0.1,
+      "rationale": "Reddit r/LocalLLaMA: limited or inconsistent track record; 3 red flags detected (track record penalty: -3); 1 green flags detected (+0.5)"
+    }
+  ]
 }
