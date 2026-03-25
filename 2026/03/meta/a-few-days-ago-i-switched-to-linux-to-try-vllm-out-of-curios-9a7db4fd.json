@@ -1,0 +1,17 @@
+{
+  "id": "9a7db4fd-b1d7-45ec-810c-de35eeeab41a",
+  "title": "A few days ago I switched to Linux to try vLLM out of curiosity. Ended up creating a %100 local, parallel, multi-agent setup with Claude Code and gpt-oss-120b for concurrent vibecoding and orchestration with CC's agent Teams entirely offline. This video shows 4 agents collaborating.",
+  "source_url": "https://www.reddit.com/r/LocalLLaMA/comments/1s0bzwz/a_few_days_ago_i_switched_to_linux_to_try_vllm/",
+  "source_name": "Reddit r/LocalLLaMA",
+  "published_at": "2026-03-22T04:10:32+00:00",
+  "scraped_at": "2026-03-22 06:22:42",
+  "bs_score": 6.0,
+  "bs_rating": "High BS",
+  "human_bs_score": null,
+  "human_bs_rating": null,
+  "editorial_comment": null,
+  "category": "community",
+  "ai_summary": null,
+  "approved": true,
+  "author_name": "/u/swagonflyyyy"
+}
