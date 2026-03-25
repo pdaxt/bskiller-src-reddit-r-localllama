@@ -1,0 +1,12 @@
+{
+  "id": "76106248-a580-4c00-b0d9-940813eaf2e0",
+  "title": "Run Qwen3.5 flagship model with 397 billion parameters at 5 – 9 tok/s on a $2,100 desktop! Two $500 GPUs, 32GB RAM, one NVMe drive. Uses Q4_K_M quants",
+  "source_url": "https://www.reddit.com/r/LocalLLaMA/comments/1s1wgph/run_qwen35_flagship_model_with_397_billion/",
+  "source_name": "Reddit r/LocalLLaMA",
+  "published_at": "2026-03-23T22:54:34+00:00",
+  "scraped_at": "2026-03-24 04:14:05",
+  "bs_score": 5.5,
+  "bs_rating": "Mixed Evidence",
+  "approved": true,
+  "author_name": "/u/Rare-Tadpole-8841"
+}
