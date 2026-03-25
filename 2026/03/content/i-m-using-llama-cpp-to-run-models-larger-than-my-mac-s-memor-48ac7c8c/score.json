@@ -1,0 +1,43 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 4.5,
+  "bs_rating": "Mixed Evidence",
+  "career_angle": "If you're building local inference pipelines, understanding memory hierarchy optimization (GPU > RAM > NVMe) is becoming table-stakes. Fork Hypura, benchmark it against vanilla llama.cpp on your hardware, and publish the results -- that's a portfolio piece hiring managers actually care about.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "score": 5.0,
+      "rationale": "Reddit self-post from the tool creator -- no independent validation, but r/LocalLLaMA community will pressure-test claims quickly"
+    },
+    {
+      "dimension": "evidence_quality",
+      "score": 5.5,
+      "rationale": "Open-source repo provided with a screenshot, but no benchmark numbers, latency comparisons, or methodology in the post itself"
+    },
+    {
+      "dimension": "reproducibility",
+      "score": 7.5,
+      "rationale": "Fully OSS on GitHub, builds on llama.cpp which is well-documented -- anyone with a Mac can clone and test"
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "score": 4.0,
+      "rationale": "Creator promoting their own tool -- classic self-promotion post, though OSS mitigates the worst incentive misalignment"
+    },
+    {
+      "dimension": "consensus",
+      "score": 6.5,
+      "rationale": "Tiered offloading is established technique (llama.cpp already supports partial offload), Hypura adds smarter placement which aligns with known approaches"
+    },
+    {
+      "dimension": "specificity",
+      "score": 5.0,
+      "rationale": "Claims MoE optimization and multi-tier placement but no specific throughput numbers, token/s benchmarks, or model size thresholds"
+    },
+    {
+      "dimension": "track_record",
+      "score": 5.0,
+      "rationale": "Unknown developer, new repo -- no prior track record to evaluate, though shipping OSS code is better than a blog post with no code"
+    }
+  ]
+}
