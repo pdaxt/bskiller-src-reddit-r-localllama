@@ -2,6 +2,59 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 5.0,
   "bs_rating": "Mixed Signals",
-  "scored_at": "2026-03-25T13:31:27.693331+00:00",
-  "flagged_for_debate": false
+  "scored_at": "2026-03-25T14:15:15Z",
+  "scoring_method": "heuristic",
+  "career_angle": "Don't mass-migrate your local inference stack based on one Reddit post. Wait for independent reproductions on the base (non-quantized) weights before investing time in Nemotron Cascade tooling.",
+  "flagged_for_debate": false,
+  "dimensions": [
+    {
+      "id": "source_authority",
+      "name": "Unknown",
+      "score": 5.0,
+      "weight": 0.0,
+      "rationale": "Anonymous Reddit user on r/LocalLLaMA; knowledgeable community but no stated credentials or affiliation"
+    },
+    {
+      "id": "evidence_quality",
+      "name": "Unknown",
+      "score": 3.0,
+      "weight": 0.0,
+      "rationale": "97.6% HumanEval from an IQ4_XS quant of a 3B-active-param model would outperform GPT-4o -- extraordinary claim with no methodology, config, or raw logs shared"
+    },
+    {
+      "id": "reproducibility",
+      "name": "Unknown",
+      "score": 6.0,
+      "weight": 0.0,
+      "rationale": "Model is public on HuggingFace, benchmarks are standard and runnable, but poster shared no eval scripts or settings to replicate"
+    },
+    {
+      "id": "conflict_of_interest",
+      "name": "Unknown",
+      "score": 7.0,
+      "weight": 0.0,
+      "rationale": "No apparent NVIDIA affiliation; appears to be genuine enthusiast testing, not promotional"
+    },
+    {
+      "id": "consensus",
+      "name": "Unknown",
+      "score": 3.0,
+      "weight": 0.0,
+      "rationale": "Poster explicitly says model 'flew under the radar' -- zero independent verification, single data point"
+    },
+    {
+      "id": "specificity",
+      "name": "Unknown",
+      "score": 7.0,
+      "weight": 0.0,
+      "rationale": "Named exact model, quant format (IQ4_XS), specific benchmark scores (97.6% HumanEval, 88% ClassEval)"
+    },
+    {
+      "id": "track_record",
+      "name": "Unknown",
+      "score": 5.0,
+      "weight": 0.0,
+      "rationale": "NVIDIA Nemotron line is legitimate but has had mixed community reception; poster's eval history unknown"
+    }
+  ]
 }
