@@ -1,0 +1,43 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 4.5,
+  "bs_rating": "Mixed Signals",
+  "career_angle": "Don't wait for this post to validate small-model agents -- run your own evals with Qwen3 or Phi-4 on structured tool-calling benchmarks like BFCL before betting your stack on sub-30B agentic workflows.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "score": 3.5,
+      "rationale": "Anonymous Reddit user on r/LocalLLaMA, no credentials, no affiliation, no prior published work cited"
+    },
+    {
+      "dimension": "evidence_quality",
+      "score": 3.0,
+      "rationale": "Pure anecdote -- no metrics, no success/failure rates, no comparison to larger models, no example outputs shown"
+    },
+    {
+      "dimension": "reproducibility",
+      "score": 4.0,
+      "rationale": "Shares the prompt and mentions tools (brave search, filesystem, fetch) but omits which specific models were tested, inference settings, and actual results"
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "score": 7.5,
+      "rationale": "No commercial product being pushed, no affiliate links to GPU providers -- appears to be genuine hobbyist experimentation"
+    },
+    {
+      "dimension": "specificity",
+      "score": 3.0,
+      "rationale": "'Sub 30B range' and 'complex tasks' are hand-wavy -- no model names, no parameter counts, no task completion percentages"
+    },
+    {
+      "dimension": "consensus",
+      "score": 5.0,
+      "rationale": "Emerging research (Microsoft Phi, Alibaba Qwen) supports capable small models, but academic benchmarks show significant agent capability drops below 30B for multi-step tool use"
+    },
+    {
+      "dimension": "track_record",
+      "score": 5.0,
+      "rationale": "Unknown poster with no verifiable history of ML contributions or benchmarking work"
+    }
+  ]
+}
