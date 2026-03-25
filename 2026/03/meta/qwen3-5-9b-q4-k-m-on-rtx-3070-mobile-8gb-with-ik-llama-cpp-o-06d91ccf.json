@@ -1,0 +1,17 @@
+{
+  "id": "06d91ccf-0065-491b-9a95-323efadec438",
+  "title": "Qwen3.5-9B.Q4_K_M on RTX 3070 Mobile (8GB) with ik_llama.cpp \u2014 optimization findings + ~50 t/s gen speed, looking for tips",
+  "source_url": "https://www.reddit.com/r/LocalLLaMA/comments/1rzxoki/qwen359bq4_k_m_on_rtx_3070_mobile_8gb_with_ik/",
+  "source_name": "Reddit r/LocalLLaMA",
+  "published_at": "2026-03-21T17:41:45+00:00",
+  "scraped_at": "2026-03-22 00:41:04",
+  "bs_score": 2.5,
+  "bs_rating": "Verified",
+  "human_bs_score": null,
+  "human_bs_rating": null,
+  "editorial_comment": null,
+  "category": "community",
+  "ai_summary": "Genuine benchmarking post from a hobbyist who actually ran the numbers, disclosed Claude helped write it, and openly asks for help -- the opposite of BS. The specific configs, mistake admissions, and community-first framing make this one of the more honest local LLM posts you'll find.",
+  "approved": true,
+  "author_name": "/u/Expensive_Demand1069"
+}
