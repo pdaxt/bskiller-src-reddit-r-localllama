@@ -2,8 +2,11 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 7.2,
   "bs_rating": "High BS",
+  "scored_at": "2026-03-22 03:35:25",
+  "scoring_method": "ai",
+  "summary": "Zero-information Reddit speculation post about whether an unnamed company will open-source model weights. No announcement, no leak, no insider info -- just vibes and crossed fingers from r/LocalLLaMA's hype machine.",
   "career_angle": "Don't make career bets on Reddit hopium. Track actual weight releases on HuggingFace and official blogs. The local LLM community's wishful thinking has a poor hit rate on predicting corporate open-source decisions.",
-  "factors": [
+  "dimensions": [
     {
       "dimension": "source_authority",
       "score": 3.0,
