@@ -1,0 +1,7 @@
+# Openclaw… what are the use cases?
+
+Source: [Reddit r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1ryw7kn/openclaw_what_are_the_use_cases/)
+
+---
+
+<!-- SC_OFF --><div class="md"><p>It seems like people are going crazy over it but … seems kind basic? I don’t get the hype, why is it actually useful?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BahnMe"> /u/BahnMe </a> <br/> <span><a href="https://www.reddit.com/r/LocalLLaMA/comments/1ryw7kn/openclaw_what_are_the_use_cases/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/LocalLLaMA/comments/1ryw7kn/openclaw_what_are_the_use_cases/">[comments]</a></span>
