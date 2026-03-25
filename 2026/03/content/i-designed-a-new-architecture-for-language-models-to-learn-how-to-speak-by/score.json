@@ -1,0 +1,60 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 7.5,
+  "bs_rating": "High BS",
+  "scored_at": "2026-03-25T14:15:23Z",
+  "scoring_method": "heuristic",
+  "career_angle": "Don't waste time chasing every 'I reinvented transformers' post on r/LocalLLaMA. If you want to actually understand novel architectures, read papers from ICML/NeurIPS that survived peer review -- that's where career-relevant breakthroughs live.",
+  "flagged_for_debate": true,
+  "dimensions": [
+    {
+      "id": "source_authority",
+      "name": "Unknown",
+      "score": 3.0,
+      "weight": 0.0,
+      "rationale": "Anonymous Reddit post with no institutional affiliation, no academic credentials cited, no prior published work referenced"
+    },
+    {
+      "id": "evidence_quality",
+      "name": "Unknown",
+      "score": 2.0,
+      "weight": 0.0,
+      "rationale": "Two toy experiments teaching a model to say 'hi Spaceman' -- no quantitative benchmarks, no comparisons to baselines, no loss curves, just screenshots"
+    },
+    {
+      "id": "reproducibility",
+      "name": "Unknown",
+      "score": 2.0,
+      "weight": 0.0,
+      "rationale": "No code repository linked, no architecture details sufficient to reproduce, vague references to 'episodic memory' and 'morpheme token prediction' without formal definitions"
+    },
+    {
+      "id": "conflict_of_interest",
+      "name": "Unknown",
+      "score": 4.0,
+      "weight": 0.0,
+      "rationale": "Solo creator promoting own invention -- standard self-promotion bias but no obvious financial motive yet"
+    },
+    {
+      "id": "specificity",
+      "name": "Unknown",
+      "score": 3.0,
+      "weight": 0.0,
+      "rationale": "Hand-wavy claims about 'semantic symbolic reference' and how current LLMs lack 'foundation for meaning as a substrate' -- sounds like philosophy cosplaying as engineering"
+    },
+    {
+      "id": "consensus",
+      "name": "Unknown",
+      "score": 2.0,
+      "weight": 0.0,
+      "rationale": "Contradicts decades of NLP research showing statistical learning works at scale; claims a fundamentally different approach with zero evidence it outperforms anything"
+    },
+    {
+      "id": "track_record",
+      "name": "Unknown",
+      "score": 2.0,
+      "weight": 0.0,
+      "rationale": "No prior work, no publications, no demonstrated expertise in ML architecture design"
+    }
+  ]
+}
