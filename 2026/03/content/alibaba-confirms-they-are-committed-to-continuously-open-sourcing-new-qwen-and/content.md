@@ -1,0 +1,7 @@
+# Alibaba confirms they are committed to continuously open-sourcing new Qwen and Wan models
+
+Source: [Reddit r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1s0pfml/alibaba_confirms_they_are_committed_to/)
+
+---
+
+<table> <tr><td> <a href="https://www.reddit.com/r/LocalLLaMA/comments/1s0pfml/alibaba_confirms_they_are_committed_to/"> <img src="https://preview.redd.it/un4csg5odmqg1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=bb330ed84e2ecd4ac6a0406935e425aa2ea955b3" alt="Alibaba confirms they are committed to continuously open-sourcing new Qwen and Wan models" title="Alibaba confirms they are committed to continuously open-sourcing new Qwen and Wan models" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Source: <a href="https://x.com/ModelScope2022/status/2035652120729563290">https://x.com/ModelScope2022/status/2035652120729563290</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TKGaming_11"> /u/TKGaming_11 </a> <br/> <span><a href="https://i.redd.it/un4csg5odmqg1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/LocalLLaMA/comments/1s0pfml/alibaba_confirms_they_are_committed_to/">[comments]</a></span> </td></tr></table>
