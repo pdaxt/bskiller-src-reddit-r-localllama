@@ -2,6 +2,66 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 2.5,
   "bs_rating": "Mostly Credible",
-  "scored_at": "2026-03-25T13:31:29.531281+00:00",
-  "flagged_for_debate": false
+  "scored_at": "2026-03-25T14:15:16Z",
+  "scoring_method": "heuristic",
+  "career_angle": "If you run local models on Mac, MTP support in mlx-lm is worth tracking -- speculative decoding is becoming table stakes for inference frameworks. Understanding multi-token prediction mechanics gives you an edge in optimizing local deployment pipelines.",
+  "flagged_for_debate": false,
+  "dimensions": [
+    {
+      "id": "source_authority",
+      "name": "Unknown",
+      "score": 6.0,
+      "weight": 0.0,
+      "rationale": "Reddit post sharing someone else's GitHub PR -- not the author, but links directly to verifiable source code"
+    },
+    {
+      "id": "evidence_quality",
+      "name": "Unknown",
+      "score": 8.0,
+      "weight": 0.0,
+      "rationale": "Specific benchmark numbers (15.3 to 23.3 tok/s), named hardware (M4 Pro), acceptance rate (80.6%), and a public PR with code diffs"
+    },
+    {
+      "id": "reproducibility",
+      "name": "Unknown",
+      "score": 8.5,
+      "weight": 0.0,
+      "rationale": "Open-source PR on mlx-lm repo -- anyone with a Mac and the model can verify these numbers themselves"
+    },
+    {
+      "id": "evidence_quality",
+      "name": "Unknown",
+      "score": 7.5,
+      "weight": 0.0,
+      "rationale": "Single benchmark on one hardware config -- solid but limited sample size"
+    },
+    {
+      "id": "conflict_of_interest",
+      "name": "Unknown",
+      "score": 8.0,
+      "weight": 0.0,
+      "rationale": "Poster explicitly says 'not my PR, just sharing' -- no financial incentive, pure community signal boosting"
+    },
+    {
+      "id": "consensus",
+      "name": "Unknown",
+      "score": 7.0,
+      "weight": 0.0,
+      "rationale": "MTP/speculative decoding is well-established technique, 1.5x gains are within expected range for the approach"
+    },
+    {
+      "id": "specificity",
+      "name": "Unknown",
+      "score": 9.0,
+      "weight": 0.0,
+      "rationale": "Exact model (Qwen3.5-27B 4-bit), exact hardware (M4 Pro), exact throughput numbers, exact acceptance rate, linked PR number"
+    },
+    {
+      "id": "track_record",
+      "name": "Unknown",
+      "score": 7.5,
+      "weight": 0.0,
+      "rationale": "mlx-lm is Apple's official ML framework repo -- maintained team with consistent delivery on Apple Silicon optimizations"
+    }
+  ]
 }
