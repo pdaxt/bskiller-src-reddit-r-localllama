@@ -1,0 +1,17 @@
+{
+  "id": "1547fb2a-d357-40ee-9883-241e42042c13",
+  "title": "Tried to build a local voice cloning audiobook pipeline for Bulgarian \u2014 XTTS-v2 sounds Russian, Fish Speech 1.5 won't load on Windows. Anyone solved Cyrillic TTS locally?",
+  "source_url": "https://www.reddit.com/r/LocalLLaMA/comments/1rzocet/tried_to_build_a_local_voice_cloning_audiobook/",
+  "source_name": "Reddit r/LocalLLaMA",
+  "published_at": "2026-03-21T10:43:16+00:00",
+  "scraped_at": "2026-03-22 00:41:04",
+  "bs_score": 2.0,
+  "bs_rating": "Mostly Credible",
+  "human_bs_score": null,
+  "human_bs_rating": null,
+  "editorial_comment": null,
+  "category": "community",
+  "ai_summary": "Honest field report from someone who actually tried the tools and hit real walls. No hype, no product shilling -- just a developer documenting exactly where open-source Cyrillic TTS falls apart on bleeding-edge hardware.",
+  "approved": true,
+  "author_name": "/u/Binqta"
+}
