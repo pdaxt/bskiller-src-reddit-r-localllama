@@ -1,0 +1,46 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 2.5,
+  "bs_rating": "Verified",
+  "scored_at": "2026-03-22 00:41:04",
+  "scoring_method": "ai",
+  "summary": "Genuine benchmarking post from a hobbyist who actually ran the numbers, disclosed Claude helped write it, and openly asks for help -- the opposite of BS. The specific configs, mistake admissions, and community-first framing make this one of the more honest local LLM posts you'll find.",
+  "career_angle": "If you're building AI products, understanding quantized inference on consumer GPUs is a real competitive edge -- this post is a free tutorial on what flags actually matter vs. cargo-cult config copying.",
+  "dimensions": [
+    {
+      "dimension": "source_authority",
+      "score": 6.0,
+      "rationale": "Reddit community post, not peer-reviewed, but r/LocalLLaMA is the most technically credible LLM hobbyist forum and posts get challenged fast"
+    },
+    {
+      "dimension": "evidence_quality",
+      "score": 8.0,
+      "rationale": "Exact hardware specs, exact CLI flags, specific t/s numbers, and crucially identifies what was WRONG with the initial config -- showing real iterative testing not cherry-picked results"
+    },
+    {
+      "dimension": "reproducibility",
+      "score": 8.0,
+      "rationale": "Full command-line configs, exact model name and quant, exact GPU model -- anyone with an RTX 3070 Mobile can reproduce this within minutes"
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "score": 8.0,
+      "rationale": "No product pitch, no affiliate links, transparently discloses Claude helped write the post, actively soliciting corrections -- low conflict"
+    },
+    {
+      "dimension": "consensus",
+      "score": 7.0,
+      "rationale": "~50 t/s gen for a 9B Q4_K_M on an RTX 3070 aligns with known performance ranges; ik_llama.cpp optimizations are well-documented in the community"
+    },
+    {
+      "dimension": "specificity",
+      "score": 9.0,
+      "rationale": "Extremely specific: exact laptop model, CPU, GPU VRAM available, OS, kernel version, fork name, quant format, batch sizes, thread counts, KV cache quantization"
+    },
+    {
+      "dimension": "track_record",
+      "score": 6.0,
+      "rationale": "Individual Reddit user with no established track record, but the community itself self-corrects aggressively on benchmark claims"
+    }
+  ]
+}
