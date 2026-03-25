@@ -2,6 +2,59 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 6.0,
   "bs_rating": "Mixed Signals",
-  "scored_at": "2026-03-25T13:31:30.728408+00:00",
-  "flagged_for_debate": false
+  "scored_at": "2026-03-25T14:15:17Z",
+  "scoring_method": "heuristic",
+  "career_angle": "Don't read tea leaves from unconfirmed departures -- if you're building on DeepSeek models, watch their GitHub commit activity and paper output for actual capability signals, not LinkedIn gossip.",
+  "flagged_for_debate": false,
+  "dimensions": [
+    {
+      "id": "source_authority",
+      "name": "Unknown",
+      "score": 4.0,
+      "weight": 0.0,
+      "rationale": "Reddit r/LocalLLaMA post citing unnamed 'public records' and 'industry' rumors. No primary source, no journalist byline, no official statement from any party."
+    },
+    {
+      "id": "evidence_quality",
+      "name": "Unknown",
+      "score": 3.0,
+      "weight": 0.0,
+      "rationale": "Zero hard evidence for the resignation itself. Academic credentials are verifiable but irrelevant to the core claim. 'Several versions circulating' is code for 'nobody actually knows.'"
+    },
+    {
+      "id": "reproducibility",
+      "name": "Unknown",
+      "score": 4.0,
+      "weight": 0.0,
+      "rationale": "Background facts (PhD, MSRA connection, paper authorship) are checkable. The resignation claim cannot be independently verified -- no company statement, no LinkedIn update cited."
+    },
+    {
+      "id": "conflict_of_interest",
+      "name": "Unknown",
+      "score": 6.0,
+      "weight": 0.0,
+      "rationale": "Reddit AI communities have incentive to amplify drama around frontier labs. No clear financial motive but engagement-farming on hot-topic companies is standard."
+    },
+    {
+      "id": "consensus",
+      "name": "Unknown",
+      "score": 4.0,
+      "weight": 0.0,
+      "rationale": "Contradictory rumors (Baidu vs ByteDance) signal no consensus even among rumormongers. Neither company has confirmed. Classic fog-of-war speculation."
+    },
+    {
+      "id": "specificity",
+      "name": "Unknown",
+      "score": 5.0,
+      "weight": 0.0,
+      "rationale": "Specific about Guo's background and contributions but vague where it matters -- no date of resignation, no source attribution, no reason given. Specificity on the wrong details."
+    },
+    {
+      "id": "track_record",
+      "name": "Unknown",
+      "score": 5.0,
+      "weight": 0.0,
+      "rationale": "r/LocalLLaMA occasionally surfaces real news early but also amplifies unverified Chinese tech rumors regularly. Hit rate on personnel moves is mediocre."
+    }
+  ]
 }
