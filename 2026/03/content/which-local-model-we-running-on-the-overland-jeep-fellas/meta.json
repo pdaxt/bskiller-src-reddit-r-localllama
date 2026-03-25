@@ -1,12 +1,8 @@
 {
   "id": "fe75df90-a89c-41ec-bc8d-2e546a8e56fa",
-  "title": "Which local model we running on the overland Jeep fellas?",
-  "source_url": "https://www.reddit.com/r/LocalLLaMA/comments/1s1kyla/which_local_model_we_running_on_the_overland_jeep/",
-  "source_name": "Reddit r/LocalLLaMA",
   "published_at": "2026-03-23T16:02:35+00:00",
   "scraped_at": "2026-03-23 16:32:16",
-  "bs_score": 5.1,
-  "bs_rating": "mixed",
-  "approved": true,
-  "author_name": null
+  "source": "Reddit r/LocalLLaMA",
+  "title": "Which local model we running on the overland Jeep fellas?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s1kyla/which_local_model_we_running_on_the_overland_jeep/"
 }
