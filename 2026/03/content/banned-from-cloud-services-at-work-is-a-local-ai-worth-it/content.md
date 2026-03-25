@@ -1,0 +1,7 @@
+# Banned from cloud services at work. Is a local AI worth it?
+
+Source: [Reddit r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1s2crx8/banned_from_cloud_services_at_work_is_a_local_ai/)
+
+---
+
+<!-- SC_OFF --><div class="md"><p>My company just banned us from putting any proprietary data into clould services for security reasons. I need help deciding between 2 pc. My main requirement is portability, the smaller the better. I need an AI assistant for document analysis and writing reports. I don&#39;t need massive models; I just want to run 30B models smoothly and maybe some smaller ones at the same time. I currently have two options with a budget of around $1500:</p> <ol> <li><p>TiinyAI: I saw their ads. 80GB RAM and 190TOPS. The size is very small. However they are a startup and I am not sure if they will ship on time</p></li> <li><p>Mac Mini M4 64GB: I can use a trade-in to get about $300 off by giving them my old Mac</p></li> </ol> <p>Is there a better choice for my budget? Appreciate your advices</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/daksh_0623"> /u/daksh_0623 </a> <br/> <span><a href="https://www.reddit.com/r/LocalLLaMA/comments/1s2crx8/banned_from_cloud_services_at_work_is_a_local_ai/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/LocalLLaMA/comments/1s2crx8/banned_from_cloud_services_at_work_is_a_local_ai/">[comments]</a></span>
