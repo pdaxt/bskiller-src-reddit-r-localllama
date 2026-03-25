@@ -1,0 +1,17 @@
+{
+  "id": "c0ac9725-3099-449b-a745-74503031c6e4",
+  "title": "Litesearch: Karpathy's autoresearch but for consumer GPUs (4\u20138GB) + easy GUI",
+  "source_url": "https://www.reddit.com/r/LocalLLaMA/comments/1s050fg/litesearch_karpathys_autoresearch_but_for/",
+  "source_name": "Reddit r/LocalLLaMA",
+  "published_at": "2026-03-21T22:41:51+00:00",
+  "scraped_at": "2026-03-22 03:35:26",
+  "bs_score": 3.5,
+  "bs_rating": "Mixed Evidence",
+  "human_bs_score": null,
+  "human_bs_rating": null,
+  "editorial_comment": null,
+  "category": "community",
+  "ai_summary": "Genuine open-source fork that does exactly what it says -- auto-sizes tiny LLM experiments to fit consumer VRAM. No hype, no fundraise, no waitlist. Just a dev scratching their own itch and shipping the code.",
+  "approved": true,
+  "author_name": "/u/Fast-Mousse405"
+}
