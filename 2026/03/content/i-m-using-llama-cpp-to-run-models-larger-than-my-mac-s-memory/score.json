@@ -2,6 +2,59 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 4.5,
   "bs_rating": "Mixed Evidence",
-  "scored_at": "2026-03-25T13:30:07.207702+00:00",
-  "flagged_for_debate": false
+  "scored_at": "2026-03-25T14:14:16Z",
+  "scoring_method": "heuristic",
+  "career_angle": "If you're building local inference pipelines, understanding memory hierarchy optimization (GPU > RAM > NVMe) is becoming table-stakes. Fork Hypura, benchmark it against vanilla llama.cpp on your hardware, and publish the results -- that's a portfolio piece hiring managers actually care about.",
+  "flagged_for_debate": false,
+  "dimensions": [
+    {
+      "id": "source_authority",
+      "name": "Unknown",
+      "score": 5.0,
+      "weight": 0.0,
+      "rationale": "Reddit self-post from the tool creator -- no independent validation, but r/LocalLLaMA community will pressure-test claims quickly"
+    },
+    {
+      "id": "evidence_quality",
+      "name": "Unknown",
+      "score": 5.5,
+      "weight": 0.0,
+      "rationale": "Open-source repo provided with a screenshot, but no benchmark numbers, latency comparisons, or methodology in the post itself"
+    },
+    {
+      "id": "reproducibility",
+      "name": "Unknown",
+      "score": 7.5,
+      "weight": 0.0,
+      "rationale": "Fully OSS on GitHub, builds on llama.cpp which is well-documented -- anyone with a Mac can clone and test"
+    },
+    {
+      "id": "conflict_of_interest",
+      "name": "Unknown",
+      "score": 4.0,
+      "weight": 0.0,
+      "rationale": "Creator promoting their own tool -- classic self-promotion post, though OSS mitigates the worst incentive misalignment"
+    },
+    {
+      "id": "consensus",
+      "name": "Unknown",
+      "score": 6.5,
+      "weight": 0.0,
+      "rationale": "Tiered offloading is established technique (llama.cpp already supports partial offload), Hypura adds smarter placement which aligns with known approaches"
+    },
+    {
+      "id": "specificity",
+      "name": "Unknown",
+      "score": 5.0,
+      "weight": 0.0,
+      "rationale": "Claims MoE optimization and multi-tier placement but no specific throughput numbers, token/s benchmarks, or model size thresholds"
+    },
+    {
+      "id": "track_record",
+      "name": "Unknown",
+      "score": 5.0,
+      "weight": 0.0,
+      "rationale": "Unknown developer, new repo -- no prior track record to evaluate, though shipping OSS code is better than a blog post with no code"
+    }
+  ]
 }
