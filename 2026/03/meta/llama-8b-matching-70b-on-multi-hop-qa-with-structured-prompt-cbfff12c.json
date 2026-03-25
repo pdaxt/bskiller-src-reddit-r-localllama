@@ -1,0 +1,17 @@
+{
+  "id": "cbfff12c-24c6-49ce-8337-c70190844af7",
+  "title": "Llama 8B matching 70B on multi-hop QA with structured prompting, no fine-tuning",
+  "source_url": "https://www.reddit.com/r/LocalLLaMA/comments/1s05thz/llama_8b_matching_70b_on_multihop_qa_with/",
+  "source_name": "Reddit r/LocalLLaMA",
+  "published_at": "2026-03-21T23:17:09+00:00",
+  "scraped_at": "2026-03-22 00:41:03",
+  "bs_score": 4.9,
+  "bs_rating": "Mostly Credible",
+  "human_bs_score": null,
+  "human_bs_rating": null,
+  "editorial_comment": null,
+  "category": "community",
+  "ai_summary": "Real arxiv paper with specific benchmarks, but 'small model matches big model' on cherry-picked QA tasks is the most recycled claim on r/LocalLLaMA. The actual finding -- reasoning is the bottleneck, not retrieval -- is well-supported, but '8B matches 70B' won't survive outside these three narrow benchmarks.",
+  "approved": true,
+  "author_name": "/u/Greedy-Teach1533"
+}
