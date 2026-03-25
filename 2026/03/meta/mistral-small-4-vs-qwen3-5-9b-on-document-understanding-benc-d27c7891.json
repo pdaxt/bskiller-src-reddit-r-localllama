@@ -1,0 +1,17 @@
+{
+  "id": "d27c7891-f38a-47f3-8156-6c97c70079c0",
+  "title": "Mistral Small 4 vs Qwen3.5-9B on document understanding benchmarks, but it does better than GPT-4.1",
+  "source_url": "https://www.reddit.com/r/LocalLLaMA/comments/1ryvwsq/mistral_small_4_vs_qwen359b_on_document/",
+  "source_name": "Reddit r/LocalLLaMA",
+  "published_at": "2026-03-20T13:13:46+00:00",
+  "scraped_at": "2026-03-21 03:17:58",
+  "bs_score": 6.6,
+  "bs_rating": "Mixed Signals",
+  "human_bs_score": null,
+  "human_bs_rating": null,
+  "editorial_comment": null,
+  "category": "community",
+  "ai_summary": null,
+  "approved": true,
+  "author_name": "/u/shhdwi"
+}
