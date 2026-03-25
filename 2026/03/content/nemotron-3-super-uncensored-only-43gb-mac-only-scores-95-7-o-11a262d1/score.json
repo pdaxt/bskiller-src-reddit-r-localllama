@@ -1,0 +1,43 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 8.2,
+  "bs_rating": "High BS",
+  "career_angle": "The real local LLM skill is running benchmarks yourself, not trusting screenshots. Learn to run lm-evaluation-harness on models you download -- that ability to verify claims independently is what separates engineers from hype consumers.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "score": 2.0,
+      "rationale": "Anonymous Reddit user, 'dealignai' HuggingFace account with no institutional backing or publication history"
+    },
+    {
+      "dimension": "evidence_quality",
+      "score": 2.0,
+      "rationale": "Self-reported screenshot, no benchmark methodology, no eval harness logs, no independent verification"
+    },
+    {
+      "dimension": "reproducibility",
+      "score": 3.5,
+      "rationale": "Weights are on HuggingFace so technically downloadable, but 'Mac only' constraint is suspicious and no eval reproduction instructions provided"
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "score": 2.5,
+      "rationale": "Creator promoting their own modified model with brand-building account name, clear incentive to inflate numbers"
+    },
+    {
+      "dimension": "consensus",
+      "score": 1.5,
+      "rationale": "95.7% MMLU would obliterate GPT-4o and Claude 3.5 from a random community fork -- no peer lab has reproduced anything close from a community quant"
+    },
+    {
+      "dimension": "specificity",
+      "score": 4.0,
+      "rationale": "Does specify parameter count (120B/12B active MoE), file size, and links to weights, but zero methodological detail on how 95.7% was measured"
+    },
+    {
+      "dimension": "track_record",
+      "score": 2.0,
+      "rationale": "Unknown creator, 'dealignai' has no established benchmark history, model name includes 'CRACK' suggesting crude safety removal rather than capability research"
+    }
+  ]
+}
