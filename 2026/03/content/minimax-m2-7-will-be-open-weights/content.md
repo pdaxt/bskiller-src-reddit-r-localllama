@@ -1,0 +1,7 @@
+# MiniMax M2.7 Will Be Open Weights
+
+Source: [Reddit r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1s0mnv3/minimax_m27_will_be_open_weights/)
+
+---
+
+<table> <tr><td> <a href="https://www.reddit.com/r/LocalLLaMA/comments/1s0mnv3/minimax_m27_will_be_open_weights/"> <img src="https://preview.redd.it/xobw2q1stlqg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=12c5fec7820acb917178c6836b379ccccf156531" alt="MiniMax M2.7 Will Be Open Weights" title="MiniMax M2.7 Will Be Open Weights" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Composer 2-Flash has been saved! (For legal reasons that&#39;s a joke)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Few_Painter_5588"> /u/Few_Painter_5588 </a> <br/> <span><a href="https://i.redd.it/xobw2q1stlqg1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/LocalLLaMA/comments/1s0mnv3/minimax_m27_will_be_open_weights/">[comments]</a></span> </td></tr></table>
