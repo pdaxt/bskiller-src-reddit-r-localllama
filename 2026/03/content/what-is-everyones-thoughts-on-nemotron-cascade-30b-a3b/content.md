@@ -1,0 +1,7 @@
+# What is everyones thoughts on Nemotron-Cascade 30b a3b
+
+Source: [Reddit r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1rzlegt/what_is_everyones_thoughts_on_nemotroncascade_30b/)
+
+---
+
+<!-- SC_OFF --><div class="md"><p>heres the model <a href="https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B">https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Odd-Ordinary-5922"> /u/Odd-Ordinary-5922 </a> <br/> <span><a href="https://www.reddit.com/r/LocalLLaMA/comments/1rzlegt/what_is_everyones_thoughts_on_nemotroncascade_30b/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/LocalLLaMA/comments/1rzlegt/what_is_everyones_thoughts_on_nemotroncascade_30b/">[comments]</a></span>
