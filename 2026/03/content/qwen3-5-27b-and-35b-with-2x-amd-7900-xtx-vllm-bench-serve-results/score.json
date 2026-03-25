@@ -2,6 +2,59 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 5.9,
   "bs_rating": "Mixed Signals",
-  "scored_at": "2026-03-25T13:37:01.656322+00:00",
-  "flagged_for_debate": false
+  "scored_at": "2026-03-25T14:15:35Z",
+  "scoring_method": "heuristic",
+  "career_angle": "LLM developments affect every developer. Understand the capabilities and limitations - knowing what AI can't do is as valuable as knowing what it can.",
+  "flagged_for_debate": false,
+  "dimensions": [
+    {
+      "id": "source_authority",
+      "name": "Source Authority",
+      "score": 3.0,
+      "weight": 0.15,
+      "rationale": "Reddit r/LocalLLaMA classified as tier_4 (lower-tier or promotional source, reliability: 40%); 5 source links cited"
+    },
+    {
+      "id": "evidence_quality",
+      "name": "Evidence Quality",
+      "score": 5.9096,
+      "weight": 0.2,
+      "rationale": "weak credibility signals (1.5); contains data/benchmark references; 1024 words (depth +0.4); high citation density (4.9/1k words)"
+    },
+    {
+      "id": "reproducibility",
+      "name": "Reproducibility",
+      "score": 6.5,
+      "weight": 0.15,
+      "rationale": "open source / code available; data availability mentioned"
+    },
+    {
+      "id": "conflict_of_interest",
+      "name": "Conflict of Interest",
+      "score": 4.0,
+      "weight": 0.15,
+      "rationale": "no overt promotional language in this Reddit r/LocalLLaMA piece, independence unconfirmed"
+    },
+    {
+      "id": "consensus",
+      "name": "Consensus",
+      "score": 2.0,
+      "weight": 0.15,
+      "rationale": "very high hype (10.0/10) -- claim far ahead of consensus; 5 references cited"
+    },
+    {
+      "id": "specificity",
+      "name": "Specificity",
+      "score": 4.0,
+      "weight": 0.1,
+      "rationale": "no vague hedging language detected; heavy hype language reduces specificity; 34 percentage figures (highly specific)"
+    },
+    {
+      "id": "track_record",
+      "name": "Track Record",
+      "score": 1.5,
+      "weight": 0.1,
+      "rationale": "Reddit r/LocalLLaMA: limited or inconsistent track record; 2 red flags detected (track record penalty: -2); 2 green flags detected (+1.0)"
+    }
+  ]
 }
