@@ -1,0 +1,43 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 3.3,
+  "bs_rating": "Mixed Evidence",
+  "career_angle": "If you're doing ML on AMD GPUs, this is worth watching -- RDNA3 optimization skills are rare and increasingly valuable as the GPU market diversifies beyond NVIDIA.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "score": 6.0,
+      "rationale": "Reddit r/LocalLLaMA post from the developer themselves, not a journal, but the community is technically sharp and self-policing"
+    },
+    {
+      "dimension": "evidence_quality",
+      "score": 7.0,
+      "rationale": "Open source GitHub repo with actual kernel code, ComfyUI integration, and performance claims grounded in hardware specs rather than vague benchmarks"
+    },
+    {
+      "dimension": "reproducibility",
+      "score": 8.0,
+      "rationale": "Code is public on GitHub, anyone with an RDNA3 GPU can clone and test, clear reproduction path"
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "score": 7.0,
+      "rationale": "Developer posting their own work so natural self-promotion bias, but no commercial angle or funding to shill for"
+    },
+    {
+      "dimension": "consensus",
+      "score": 5.0,
+      "rationale": "Novel approach without independent benchmarks or third-party validation yet, self-described as proof of concept"
+    },
+    {
+      "dimension": "specificity",
+      "score": 8.0,
+      "rationale": "Specific hardware target (RDNA3), specific technique (fp8 via non-native path), specific comparison point (ROCm fp16 at half theoretical max), credits prior work by name"
+    },
+    {
+      "dimension": "track_record",
+      "score": 6.0,
+      "rationale": "Developer has GitHub history, builds on Venom1806/SuriyaaMM's prior Feather kernel work which has community recognition"
+    }
+  ]
+}
