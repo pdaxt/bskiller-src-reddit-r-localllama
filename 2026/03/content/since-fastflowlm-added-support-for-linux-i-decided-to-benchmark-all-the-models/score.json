@@ -1,0 +1,60 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 2.5,
+  "bs_rating": "Mostly Credible",
+  "scored_at": "2026-03-25T14:14:28Z",
+  "scoring_method": "heuristic",
+  "career_angle": "If you're evaluating local LLM inference on AMD APUs, these are useful reference numbers. The Ryzen AI Max+ 395 unified memory architecture is worth tracking for on-device AI roles.",
+  "flagged_for_debate": false,
+  "dimensions": [
+    {
+      "id": "source_authority",
+      "name": "Unknown",
+      "score": 6.0,
+      "weight": 0.0,
+      "rationale": "Anonymous Reddit user, but r/LocalLLaMA is a technically literate community with strong self-policing. No credentials claimed, none needed for hardware benchmarks."
+    },
+    {
+      "id": "evidence_quality",
+      "name": "Unknown",
+      "score": 3.0,
+      "weight": 0.0,
+      "rationale": "Raw benchmark tables with specific tok/s numbers at multiple context depths. Acknowledges missing results where tests failed. This is primary data, not regurgitated marketing."
+    },
+    {
+      "id": "reproducibility",
+      "name": "Unknown",
+      "score": 2.5,
+      "weight": 0.0,
+      "rationale": "Exact hardware (HP ZBook Ultra G1a, Ryzen AI Max+ 395), exact models with parameter counts, exact context depths. Anyone with the same setup can verify."
+    },
+    {
+      "id": "conflict_of_interest",
+      "name": "Unknown",
+      "score": 4.0,
+      "weight": 0.0,
+      "rationale": "Slight risk of being a FastFlowLM promoter, but the post reads as genuine user testing after Linux support dropped. No affiliate links, no breathless praise."
+    },
+    {
+      "id": "specificity",
+      "name": "Unknown",
+      "score": 2.0,
+      "weight": 0.0,
+      "rationale": "Extremely specific: exact hardware SKU, exact model names and sizes, exact context depths, exact pp and tg numbers. No vague claims."
+    },
+    {
+      "id": "consensus",
+      "name": "Unknown",
+      "score": 4.5,
+      "weight": 0.0,
+      "rationale": "Single data point from one user on one machine. No cross-validation against llama.cpp or other backends. Useful but unverified independently."
+    },
+    {
+      "id": "track_record",
+      "name": "Unknown",
+      "score": 5.0,
+      "weight": 0.0,
+      "rationale": "Unknown poster history. Reddit account not assessed. Neutral -- no reason to distrust, no established credibility either."
+    }
+  ]
+}
