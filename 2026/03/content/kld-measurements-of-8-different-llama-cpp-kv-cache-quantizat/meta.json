@@ -1,0 +1,12 @@
+{
+  "id": "9135a801-b98b-49ba-bd87-1a4fb8907e7a",
+  "title": "KLD measurements of 8 different llama.cpp KV cache quantizations over several 8-12B models",
+  "source_url": "https://www.reddit.com/r/LocalLLaMA/comments/1s1pujq/kld_measurements_of_8_different_llamacpp_kv_cache/",
+  "source_name": "Reddit r/LocalLLaMA",
+  "published_at": "2026-03-23T18:52:50+00:00",
+  "scraped_at": "2026-03-24 04:14:05",
+  "bs_score": 5.8,
+  "bs_rating": "Mixed Evidence",
+  "approved": true,
+  "author_name": "/u/Velocita84"
+}
