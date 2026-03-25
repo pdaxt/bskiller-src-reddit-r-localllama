@@ -1,0 +1,7 @@
+# Impressive thread from /r/ChatGPT, where after ChatGPT finds out no 7Zip, tar, py7zr, apt-get, Internet, it just manually parsed and unzipped from hex data of the .7z file. What model + prompts would be able to do this?
+
+Source: [Reddit r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1s0mmsn/impressive_thread_from_rchatgpt_where_after/)
+
+---
+
+<table> <tr><td> <a href="https://www.reddit.com/r/LocalLLaMA/comments/1s0mmsn/impressive_thread_from_rchatgpt_where_after/"> <img src="https://preview.redd.it/znfuylnikhqg1.png?width=140&amp;height=77&amp;auto=webp&amp;s=25177e8d943b277e1d5b74a1d307d2563a6542dd" alt="Impressive thread from /r/ChatGPT, where after ChatGPT finds out no 7Zip, tar, py7zr, apt-get, Internet, it just manually parsed and unzipped from hex data of the .7z file. What model + prompts would be able to do this?" title="Impressive thread from /r/ChatGPT, where after ChatGPT finds out no 7Zip, tar, py7zr, apt-get, Internet, it just manually parsed and unzipped from hex data of the .7z file. What model + prompts would be able to do this?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/jinnyjuice"> /u/jinnyjuice </a> <br/> <span><a href="https://old.reddit.com/r/ChatGPT/comments/1s06mg7/chatgpt_i_dont_have_7zip_installed_fine_ill">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/LocalLLaMA/comments/1s0mmsn/impressive_thread_from_rchatgpt_where_after/">[comments]</a></span> </td></tr></table>
