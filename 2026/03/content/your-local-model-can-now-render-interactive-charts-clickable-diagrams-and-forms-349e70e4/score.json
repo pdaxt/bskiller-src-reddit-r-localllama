@@ -1,0 +1,60 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 7.1,
+  "bs_rating": "High BS",
+  "scored_at": "2026-03-21 03:17:58",
+  "scoring_method": "heuristic",
+  "summary": "",
+  "career_angle": "LLM developments affect every developer. Understand the capabilities and limitations - knowing what AI can't do is as valuable as knowing what it can.",
+  "dimensions": [
+    {
+      "dimension": "source_authority",
+      "name": "Source Authority",
+      "rationale": "Reddit r/LocalLLaMA classified as tier_4 (lower-tier or promotional source, reliability: 40%); 8 source links cited",
+      "score": 3.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "evidence_quality",
+      "name": "Evidence Quality",
+      "rationale": "high citation density (14.9/1k words)",
+      "score": 2.0,
+      "weight": 0.2
+    },
+    {
+      "dimension": "reproducibility",
+      "name": "Reproducibility",
+      "rationale": "open source / code available",
+      "score": 5.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "name": "Conflict of Interest",
+      "rationale": "no overt promotional language in this Reddit r/LocalLLaMA piece, independence unconfirmed",
+      "score": 4.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "consensus",
+      "name": "Consensus",
+      "rationale": "high hype (6.0/10) -- claim ahead of consensus; 1 vague patterns suggest uncertain consensus; 8 references cited -- broad sourcing",
+      "score": 3.2,
+      "weight": 0.15
+    },
+    {
+      "dimension": "specificity",
+      "name": "Specificity",
+      "rationale": "1 vague patterns: might be; heavy hype language reduces specificity; contains specific numbers/data",
+      "score": 1.5,
+      "weight": 0.1
+    },
+    {
+      "dimension": "track_record",
+      "name": "Track Record",
+      "rationale": "Reddit r/LocalLLaMA: limited or inconsistent track record; 2 red flags detected (track record penalty: -2); 1 green flags detected (+0.5)",
+      "score": 1.0,
+      "weight": 0.1
+    }
+  ]
+}
