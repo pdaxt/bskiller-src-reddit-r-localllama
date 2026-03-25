@@ -1,0 +1,17 @@
+{
+  "id": "a0364e6a-e7bf-44cd-b7f8-aac554f44fa2",
+  "title": "Trained a GPT transformer from scratch on a $300 CPU \u2014 39 minutes, 0.82M params, no GPU needed",
+  "source_url": "https://www.reddit.com/r/LocalLLaMA/comments/1rzns9c/trained_a_gpt_transformer_from_scratch_on_a_300/",
+  "source_name": "Reddit r/LocalLLaMA",
+  "published_at": "2026-03-21T10:08:17+00:00",
+  "scraped_at": "2026-03-22 00:41:03",
+  "bs_score": 5.1,
+  "bs_rating": "Mixed Evidence",
+  "human_bs_score": null,
+  "human_bs_rating": null,
+  "editorial_comment": null,
+  "category": "community",
+  "ai_summary": "Training a 0.82M-param character-level model on 201K chars of children's stories is a homework exercise, not a breakthrough. The output is gibberish ('she rabbing animals the dreezed') and the breathless framing implies you can skip GPUs for real LLM work -- you absolutely cannot.",
+  "approved": true,
+  "author_name": "/u/Suspicious_Gap1121"
+}
