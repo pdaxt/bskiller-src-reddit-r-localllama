@@ -1,0 +1,43 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 2.5,
+  "bs_rating": "Mostly Credible",
+  "career_angle": "If you're evaluating local LLM inference on AMD APUs, these are useful reference numbers. The Ryzen AI Max+ 395 unified memory architecture is worth tracking for on-device AI roles.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "score": 6.0,
+      "rationale": "Anonymous Reddit user, but r/LocalLLaMA is a technically literate community with strong self-policing. No credentials claimed, none needed for hardware benchmarks."
+    },
+    {
+      "dimension": "evidence_quality",
+      "score": 3.0,
+      "rationale": "Raw benchmark tables with specific tok/s numbers at multiple context depths. Acknowledges missing results where tests failed. This is primary data, not regurgitated marketing."
+    },
+    {
+      "dimension": "reproducibility",
+      "score": 2.5,
+      "rationale": "Exact hardware (HP ZBook Ultra G1a, Ryzen AI Max+ 395), exact models with parameter counts, exact context depths. Anyone with the same setup can verify."
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "score": 4.0,
+      "rationale": "Slight risk of being a FastFlowLM promoter, but the post reads as genuine user testing after Linux support dropped. No affiliate links, no breathless praise."
+    },
+    {
+      "dimension": "specificity",
+      "score": 2.0,
+      "rationale": "Extremely specific: exact hardware SKU, exact model names and sizes, exact context depths, exact pp and tg numbers. No vague claims."
+    },
+    {
+      "dimension": "consensus",
+      "score": 4.5,
+      "rationale": "Single data point from one user on one machine. No cross-validation against llama.cpp or other backends. Useful but unverified independently."
+    },
+    {
+      "dimension": "track_record",
+      "score": 5.0,
+      "rationale": "Unknown poster history. Reddit account not assessed. Neutral -- no reason to distrust, no established credibility either."
+    }
+  ]
+}
