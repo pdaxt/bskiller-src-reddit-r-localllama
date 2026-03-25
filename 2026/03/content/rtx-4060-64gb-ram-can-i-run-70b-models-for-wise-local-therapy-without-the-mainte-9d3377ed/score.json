@@ -1,0 +1,46 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 4.8,
+  "bs_rating": "Mostly Credible",
+  "scored_at": "2026-03-22 00:41:04",
+  "scoring_method": "ai",
+  "summary": "RTX 4060 has 8GB VRAM -- you're not running 70B on GPU, you're running it on CPU RAM at 1-2 tokens/sec while pretending that's therapy. The 'zero maintenance local AI' fantasy collides hard with reality the moment llama.cpp updates break your quantization format.",
+  "career_angle": "If local inference interests you, learn GGUF quantization and GPU offloading tradeoffs -- real MLOps skills. But don't confuse slow token generation with clinical insight; actual AI-in-therapy roles require clinical validation pipelines, not vibes.",
+  "dimensions": [
+    {
+      "dimension": "source_authority",
+      "score": 5.0,
+      "rationale": "Reddit self-post from anonymous user seeking advice, not claiming expertise. r/LocalLLaMA has knowledgeable community but OP shows surface-level research."
+    },
+    {
+      "dimension": "evidence_quality",
+      "score": 4.0,
+      "rationale": "No benchmarks, no actual testing. Hardware specs listed but no evidence the setup was tested or that 70B models produce therapeutically useful output at CPU-only speeds."
+    },
+    {
+      "dimension": "reproducibility",
+      "score": 5.0,
+      "rationale": "Hardware is commodity and reproducible. But 'therapeutic tone' and 'zero maintenance' are subjective claims impossible to verify or reproduce consistently."
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "score": 8.0,
+      "rationale": "No commercial angle. Genuine user seeking advice. Mentions specific project (Inner Dialogue) but not shilling it."
+    },
+    {
+      "dimension": "consensus",
+      "score": 4.0,
+      "rationale": "Community consensus: 70B on 8GB VRAM is a non-starter for GPU inference. CPU inference works but is painfully slow. No clinical consensus that LLMs provide therapeutic value."
+    },
+    {
+      "dimension": "specificity",
+      "score": 6.0,
+      "rationale": "Specific hardware listed (RTX 4060, 64GB RAM), specific software referenced (Inner Dialogue, Obsidian). But therapeutic goals are vague -- 'warm tone' and 'big picture' are not measurable."
+    },
+    {
+      "dimension": "track_record",
+      "score": 5.0,
+      "rationale": "Anonymous Reddit poster with no track record to evaluate. Local LLM community has mixed track record on 'it just works' claims for large models on consumer hardware."
+    }
+  ]
+}
