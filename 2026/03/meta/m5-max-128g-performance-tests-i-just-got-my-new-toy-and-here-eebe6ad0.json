@@ -1,0 +1,17 @@
+{
+  "id": "eebe6ad0-a53b-42c6-9857-83df76ba00d5",
+  "title": "M5 Max 128G Performance tests. I just got my new toy, and here's what it can do.",
+  "source_url": "https://www.reddit.com/r/LocalLLaMA/comments/1rzkw4x/m5_max_128g_performance_tests_i_just_got_my_new/",
+  "source_name": "Reddit r/LocalLLaMA",
+  "published_at": "2026-03-21T07:01:42+00:00",
+  "scraped_at": "2026-03-21 10:59:13",
+  "bs_score": 5.8,
+  "bs_rating": "Mixed Signals",
+  "human_bs_score": null,
+  "human_bs_rating": null,
+  "editorial_comment": null,
+  "category": "community",
+  "ai_summary": "Clickbait headline promises 'performance tests' but delivers zero actual benchmarks\u2014just a personal anecdote about buying an M5 Max and running local LLMs. The post is truncated mid-sentence with no metrics, methodology, or reproducible data.",
+  "approved": true,
+  "author_name": "/u/affenhoden"
+}
