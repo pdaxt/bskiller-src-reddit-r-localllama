@@ -2,6 +2,59 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 5.3,
   "bs_rating": "Mixed Evidence",
-  "scored_at": "2026-03-25T13:30:35.860857+00:00",
-  "flagged_for_debate": false
+  "scored_at": "2026-03-25T14:14:25Z",
+  "scoring_method": "heuristic",
+  "career_angle": "Running large MoE models locally is a legit skill gap worth filling. Learn GGUF quantization trade-offs and abliteration techniques, but benchmark everything yourself -- never trust the uploader's self-reported evals.",
+  "flagged_for_debate": false,
+  "dimensions": [
+    {
+      "id": "source_authority",
+      "name": "Unknown",
+      "score": 4.0,
+      "weight": 0.0,
+      "rationale": "Random HuggingFace user on Reddit, not the Qwen team or a recognized safety research lab. No institutional backing for the 'uncensoring' methodology."
+    },
+    {
+      "id": "evidence_quality",
+      "name": "Unknown",
+      "score": 3.0,
+      "weight": 0.0,
+      "rationale": "Claims 0/465 refusals and 'zero capability loss' with zero benchmark comparisons, no perplexity scores, no MMLU/HellaSwag deltas. 'From my own testing: 0 issues' is not evidence."
+    },
+    {
+      "id": "reproducibility",
+      "name": "Unknown",
+      "score": 7.0,
+      "weight": 0.0,
+      "rationale": "GGUF weights are publicly downloadable and loadable in standard tooling. Anyone can verify refusal behavior and run benchmarks themselves."
+    },
+    {
+      "id": "conflict_of_interest",
+      "name": "Unknown",
+      "score": 4.0,
+      "weight": 0.0,
+      "rationale": "Creator promoting their own release with breathless marketing copy and self-branded 'K_P Perfect' quant naming. Clear incentive to oversell capability retention."
+    },
+    {
+      "id": "consensus",
+      "name": "Unknown",
+      "score": 6.0,
+      "weight": 0.0,
+      "rationale": "Abliteration and uncensoring are well-documented techniques that work. But 'zero capability loss' contradicts most research showing some degradation from safety layer removal."
+    },
+    {
+      "id": "specificity",
+      "name": "Unknown",
+      "score": 5.0,
+      "weight": 0.0,
+      "rationale": "Specific on refusal count (0/465) and file formats, but vague on methodology, training details, and completely absent on standard benchmarks that would validate the 'no degradation' claim."
+    },
+    {
+      "id": "track_record",
+      "name": "Unknown",
+      "score": 5.0,
+      "weight": 0.0,
+      "rationale": "HauhauCS has prior uncensored releases on HuggingFace with community traction, but no published research or peer-reviewed validation of their abliteration approach."
+    }
+  ]
 }
