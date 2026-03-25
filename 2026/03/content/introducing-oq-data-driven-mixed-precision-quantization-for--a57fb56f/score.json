@@ -1,0 +1,57 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 5.2,
+  "bs_rating": "Mixed Evidence",
+  "career_angle": "Open-source contributions build career capital. Star promising repos early, contribute to ones in your domain, and build your GitHub profile.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "name": "Source Authority",
+      "rationale": "'Introducing oQ: data-driven mixed-precision quantization ...' -- Reddit r/LocalLLaMA is lower-tier or promotional source (tier_4, reliability: 40%) reporting on Apple",
+      "score": 3.5,
+      "weight": 0.15
+    },
+    {
+      "dimension": "evidence_quality",
+      "name": "Evidence Quality",
+      "rationale": "references specific benchmarks: GitHub repository, HuggingFace model/dataset, MMLU benchmark; specific figures cited: 'td align=\"left\">14.0%', '=\"left\"><strong>64.0%', 'td align=\"left\">76.3%'",
+      "score": 4.5,
+      "weight": 0.2
+    },
+    {
+      "dimension": "reproducibility",
+      "name": "Reproducibility",
+      "rationale": "links to GitHub repository and HuggingFace model/dataset",
+      "score": 6.5,
+      "weight": 0.15
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "name": "Conflict of Interest",
+      "rationale": "Reddit r/LocalLLaMA covers Apple -- no overt promotional language, but independence not confirmed",
+      "score": 5.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "consensus",
+      "name": "Consensus",
+      "rationale": "'Introducing oQ: data-driven mixed-precision quantization ...' -- not cross-referenced against external expert consensus",
+      "score": 5.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "specificity",
+      "name": "Specificity",
+      "rationale": "cites concrete figures: 'td align=\"left\">14.0%', '=\"left\"><strong>64.0%', 'td align=\"left\">76.3%'",
+      "score": 5.5,
+      "weight": 0.1
+    },
+    {
+      "dimension": "track_record",
+      "name": "Track Record",
+      "rationale": "Reddit r/LocalLLaMA on Apple topics -- limited or inconsistent track record",
+      "score": 3.5,
+      "weight": 0.1
+    }
+  ]
+}
