@@ -1,12 +1,8 @@
 {
   "id": "49948dc2-71b8-4cf7-a678-5bbd00b0620c",
-  "title": "M5 Max Actual Pre-fill performance gains",
-  "source_url": "https://www.reddit.com/r/LocalLLaMA/comments/1s1k65x/m5_max_actual_prefill_performance_gains/",
-  "source_name": "Reddit r/LocalLLaMA",
   "published_at": "2026-03-23T15:33:59+00:00",
   "scraped_at": "2026-03-23 16:32:16",
-  "bs_score": 5.1,
-  "bs_rating": "mixed",
-  "approved": true,
-  "author_name": null
+  "source": "Reddit r/LocalLLaMA",
+  "title": "M5 Max Actual Pre-fill performance gains",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s1k65x/m5_max_actual_prefill_performance_gains/"
 }
