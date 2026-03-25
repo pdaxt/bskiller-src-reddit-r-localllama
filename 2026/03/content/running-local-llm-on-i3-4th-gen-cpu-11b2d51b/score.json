@@ -1,0 +1,43 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 2.0,
+  "bs_rating": "Verified",
+  "career_angle": "If you can optimize inference on decade-old hardware, you understand constraints most AI engineers never face. That skill translates directly to edge deployment and embedded AI roles.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "score": 6.0,
+      "rationale": "Random Reddit user, but r/LocalLLaMA is the most technically honest AI community online -- they'll tell you when something is slow garbage"
+    },
+    {
+      "dimension": "evidence_quality",
+      "score": 8.0,
+      "rationale": "Exact specs provided: i3-4130, 16GB DDR3, no GPU. No exaggeration, no 'it runs great!' claims. Just the facts."
+    },
+    {
+      "dimension": "reproducibility",
+      "score": 9.0,
+      "rationale": "Anyone with similar hardware can verify. Llama.cpp benchmarks on old CPUs are well-documented. Expect ~2-3 tokens/sec on a Q4 3B model."
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "score": 9.0,
+      "rationale": "Zero commercial angle. Nobody profits from telling you a 4th gen i3 is a viable LLM machine."
+    },
+    {
+      "dimension": "consensus",
+      "score": 8.0,
+      "rationale": "Community consensus is clear: small quantized models (TinyLlama, Phi-2, Gemma 2B Q4) work on 16GB RAM CPU-only. No one disputes the constraints."
+    },
+    {
+      "dimension": "specificity",
+      "score": 8.0,
+      "rationale": "Hardware specs are precise. The ask is specific. No vague 'can AI run locally?' hand-waving."
+    },
+    {
+      "dimension": "track_record",
+      "score": 5.0,
+      "rationale": "New user, no post history to evaluate. Neutral score -- no red flags, no credibility either."
+    }
+  ]
+}
