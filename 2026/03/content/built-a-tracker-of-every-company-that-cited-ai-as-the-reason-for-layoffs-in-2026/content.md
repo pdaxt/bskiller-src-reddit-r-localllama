@@ -1,0 +1,7 @@
+# Built a tracker of every company that cited AI as the reason for layoffs in 2026
+
+Source: [Reddit r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1s2ff19/built_a_tracker_of_every_company_that_cited_ai_as/)
+
+---
+
+<!-- SC_OFF --><div class="md"><p>AI is reshaping the job market faster than any technology in history. This tracker documents every major company that has cited AI as the reason for layoffs in 2026 and every company actively hiring for AI roles.</p> <p>Built a tracker of every company that cited AI as the reason for layoffs in 2026</p> <p>Oracle: 25,000 jobs</p> <p>Meta: 16,000 jobs</p> <p>Amazon: 16,000 jobs</p> <p>Block: 4,000 jobs</p> <p>Salesforce: 5,000 jobs</p> <p>Also tracking which companies are hiring for AI roles at the same time . Meta is cutting non-AI staff while adding 2,000+ AI engineers simultaneously. The most interesting data point: Klarna cut 700 people citing AI, quality declined, customers revolted, and they quietly rehired. Forrester predicts 50% of AI layoffs end the same way.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Remarkable-Dark2840"> /u/Remarkable-Dark2840 </a> <br/> <span><a href="https://www.reddit.com/r/LocalLLaMA/comments/1s2ff19/built_a_tracker_of_every_company_that_cited_ai_as/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/LocalLLaMA/comments/1s2ff19/built_a_tracker_of_every_company_that_cited_ai_as/">[comments]</a></span>
