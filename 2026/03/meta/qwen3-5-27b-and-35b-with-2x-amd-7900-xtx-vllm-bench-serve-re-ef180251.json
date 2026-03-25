@@ -1,0 +1,17 @@
+{
+  "id": "ef180251-260b-4aec-832d-547e4d833bba",
+  "title": "Qwen3.5 27B and 35B with 2x AMD 7900 XTX vLLM bench serve results",
+  "source_url": "https://www.reddit.com/r/LocalLLaMA/comments/1rz9lne/qwen35_27b_and_35b_with_2x_amd_7900_xtx_vllm/",
+  "source_name": "Reddit r/LocalLLaMA",
+  "published_at": "2026-03-20T21:57:58+00:00",
+  "scraped_at": "2026-03-21 10:59:13",
+  "bs_score": 5.9,
+  "bs_rating": "Mixed Signals",
+  "human_bs_score": null,
+  "human_bs_rating": null,
+  "editorial_comment": null,
+  "category": "community",
+  "ai_summary": null,
+  "approved": true,
+  "author_name": "/u/bettertoknow"
+}
