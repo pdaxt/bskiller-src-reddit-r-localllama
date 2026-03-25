@@ -1,0 +1,17 @@
+{
+  "id": "8b85c184-5db7-4e22-a31d-3454b46779bb",
+  "title": "Qwen 3.5 397b (180gb) scores 93% on MMLU",
+  "source_url": "https://www.reddit.com/r/LocalLLaMA/comments/1rypm8m/qwen_35_397b_180gb_scores_93_on_mmlu/",
+  "source_name": "Reddit r/LocalLLaMA",
+  "published_at": "2026-03-20T07:18:48+00:00",
+  "scraped_at": "2026-03-21 03:17:58",
+  "bs_score": 6.1,
+  "bs_rating": "Mixed Signals",
+  "human_bs_score": null,
+  "human_bs_rating": null,
+  "editorial_comment": null,
+  "category": "community",
+  "ai_summary": null,
+  "approved": true,
+  "author_name": "/u/HealthyCommunicat"
+}
