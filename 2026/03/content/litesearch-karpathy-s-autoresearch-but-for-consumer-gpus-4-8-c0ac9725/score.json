@@ -1,0 +1,43 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 3.5,
+  "bs_rating": "Mixed Evidence",
+  "career_angle": "If you have a spare 3060 gathering dust, this is a low-friction way to start running ML experiments without cloud bills. Fork it, break it, add multi-GPU support -- that's a portfolio piece that shows you actually train models, not just call APIs.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "score": 5.0,
+      "rationale": "Anonymous Reddit user, but links to public MIT repo with verifiable code. Karpathy lineage adds credibility to the concept."
+    },
+    {
+      "dimension": "evidence_quality",
+      "score": 7.0,
+      "rationale": "Specific VRAM-to-param mappings (4GB=86M, 8GB=285M), named GPU models (1080/3060), linked repo with README. Claims are concrete and checkable."
+    },
+    {
+      "dimension": "reproducibility",
+      "score": 8.0,
+      "rationale": "MIT license, pip/uv install, open source on GitHub. Anyone with an NVIDIA card can verify in minutes. High reproducibility."
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "score": 6.0,
+      "rationale": "Creator promoting own project, but it's free, open source, no monetization angle. Transparent self-promotion with no financial motive."
+    },
+    {
+      "dimension": "consensus",
+      "score": 7.5,
+      "rationale": "VRAM-aware model sizing is well-understood engineering. torch sdpa is standard. Nothing here contradicts known ML practice -- it's optimization, not magic."
+    },
+    {
+      "dimension": "specificity",
+      "score": 7.5,
+      "rationale": "Exact param counts per VRAM tier, specific kernel choices (torch sdpa over custom), named GPU architectures (Pascal+). Refreshingly precise for a Reddit post."
+    },
+    {
+      "dimension": "track_record",
+      "score": 3.5,
+      "rationale": "Unknown poster with no verifiable ML track record. New GitHub repo with no stars/forks data provided. The code speaks but the author is unproven."
+    }
+  ]
+}
