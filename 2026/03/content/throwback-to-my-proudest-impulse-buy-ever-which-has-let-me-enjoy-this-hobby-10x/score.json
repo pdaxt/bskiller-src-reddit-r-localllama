@@ -1,0 +1,60 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 6.0,
+  "bs_rating": "High BS",
+  "scored_at": "2026-03-25T13:29:31Z",
+  "scoring_method": "heuristic",
+  "career_angle": "Consider how this development might affect your role. The skills that matter are shifting - make sure yours are shifting with them.",
+  "flagged_for_debate": false,
+  "dimensions": [
+    {
+      "id": "source_authority",
+      "name": "Source Authority",
+      "score": 3.5,
+      "weight": 0.15,
+      "rationale": "'Throwback to my proudest impulse buy ever, which has let ...' -- Reddit r/LocalLLaMA is lower-tier or promotional source (tier_4, reliability: 40%)"
+    },
+    {
+      "id": "evidence_quality",
+      "name": "Evidence Quality",
+      "score": 3.0,
+      "weight": 0.2,
+      "rationale": "specific figures cited: 'and they gave me 10%', '10x', '10x'"
+    },
+    {
+      "id": "reproducibility",
+      "name": "Reproducibility",
+      "score": 4.0,
+      "weight": 0.15,
+      "rationale": "'Throwback to my proudest impulse buy ever, which has let ...' -- no code, methodology, or reproducibility details provided"
+    },
+    {
+      "id": "conflict_of_interest",
+      "name": "Conflict of Interest",
+      "score": 5.0,
+      "weight": 0.15,
+      "rationale": "'Throwback to my proudest impulse buy ever, which has let ...' -- no overt promotional language from Reddit r/LocalLLaMA, but independence not confirmed"
+    },
+    {
+      "id": "consensus",
+      "name": "Consensus",
+      "score": 5.0,
+      "weight": 0.15,
+      "rationale": "'Throwback to my proudest impulse buy ever, which has let ...' -- not cross-referenced against external expert consensus"
+    },
+    {
+      "id": "specificity",
+      "name": "Specificity",
+      "score": 4.5,
+      "weight": 0.1,
+      "rationale": "cites concrete figures: 'and they gave me 10%', '10x', '10x'"
+    },
+    {
+      "id": "track_record",
+      "name": "Track Record",
+      "score": 3.5,
+      "weight": 0.1,
+      "rationale": "Reddit r/LocalLLaMA -- limited or inconsistent track record"
+    }
+  ]
+}
