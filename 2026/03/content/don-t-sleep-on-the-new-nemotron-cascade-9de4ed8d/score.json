@@ -2,8 +2,11 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 5.0,
   "bs_rating": "Mixed Signals",
+  "scored_at": "2026-03-22 00:41:03",
+  "scoring_method": "ai",
+  "summary": "One redditor's self-run benchmarks on a quantized model claiming 97.6% HumanEval -- a score that would beat most frontier models from a 3B active-parameter quant. Extraordinary claims, one person's eval, zero methodology shared.",
   "career_angle": "Don't mass-migrate your local inference stack based on one Reddit post. Wait for independent reproductions on the base (non-quantized) weights before investing time in Nemotron Cascade tooling.",
-  "factors": [
+  "dimensions": [
     {
       "dimension": "source_authority",
       "score": 5.0,
