@@ -2,6 +2,59 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 4.2,
   "bs_rating": "Mixed Evidence",
-  "scored_at": "2026-03-25T13:30:45.872799+00:00",
-  "flagged_for_debate": false
+  "scored_at": "2026-03-25T14:14:34Z",
+  "scoring_method": "heuristic",
+  "career_angle": "If you have 24GB VRAM, tools like Aider + Qwen2.5-Coder-32B (Q4) or DeepSeek-Coder-V2-Lite actually work for real dev workflows. Learn to pair local models with good scaffolding rather than waiting for cloud parity.",
+  "flagged_for_debate": false,
+  "dimensions": [
+    {
+      "id": "source_authority",
+      "name": "Unknown",
+      "score": 5.0,
+      "weight": 0.0,
+      "rationale": "Reddit self-post from unknown user -- no authority claimed, but r/LocalLLaMA is the right community for this question"
+    },
+    {
+      "id": "evidence_quality",
+      "name": "Unknown",
+      "score": 4.0,
+      "weight": 0.0,
+      "rationale": "No claims being made, just a question -- hardware specs provided are real and verifiable"
+    },
+    {
+      "id": "reproducibility",
+      "name": "Unknown",
+      "score": 7.0,
+      "weight": 0.0,
+      "rationale": "24GB VRAM + 32GB RAM is a concrete, testable setup -- anyone can verify what runs on this hardware"
+    },
+    {
+      "id": "conflict_of_interest",
+      "name": "Unknown",
+      "score": 9.0,
+      "weight": 0.0,
+      "rationale": "Zero commercial interest -- genuine user question with no product promotion or affiliate links"
+    },
+    {
+      "id": "consensus",
+      "name": "Unknown",
+      "score": 6.0,
+      "weight": 0.0,
+      "rationale": "The premise that local LLMs can do full app development is optimistic but increasingly grounded -- tools like Aider and Continue exist but quality varies wildly"
+    },
+    {
+      "id": "specificity",
+      "name": "Unknown",
+      "score": 5.0,
+      "weight": 0.0,
+      "rationale": "Vague on what kind of app or complexity level -- 'not snake game' is the only constraint given"
+    },
+    {
+      "id": "track_record",
+      "name": "Unknown",
+      "score": 5.0,
+      "weight": 0.0,
+      "rationale": "Unknown poster, no history to evaluate -- neutral score"
+    }
+  ]
 }
