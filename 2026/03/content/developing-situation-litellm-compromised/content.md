@@ -1,0 +1,7 @@
+# [Developing situation] LiteLLM compromised
+
+Source: [Reddit r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1s2fch0/developing_situation_litellm_compromised/)
+
+---
+
+<table> <tr><td> <a href="https://www.reddit.com/r/LocalLLaMA/comments/1s2fch0/developing_situation_litellm_compromised/"> <img src="https://preview.redd.it/2j4q6tni60rg1.png?width=140&amp;height=81&amp;auto=webp&amp;s=217d5033d9c3f8e7793f296324afb56041e71a93" alt="[Developing situation] LiteLLM compromised" title="[Developing situation] LiteLLM compromised" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p><a href="https://preview.redd.it/2j4q6tni60rg1.png?width=1250&amp;format=png&amp;auto=webp&amp;s=31713cf00753ba517ec22e059d832cf5c456b4e6">https://preview.redd.it/2j4q6tni60rg1.png?width=1250&amp;format=png&amp;auto=webp&amp;s=31713cf00753ba517ec22e059d832cf5c456b4e6</a></p> <p>Stay safe y&#39;all. </p> <p><a href="https://github.com/BerriAI/litellm/issues/24512">https://github.com/BerriAI/litellm/issues/24512</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OrganizationWinter99"> /u/OrganizationWinter99 </a> <br/> <span><a href="https://www.reddit.com/r/LocalLLaMA/comments/1s2fch0/developing_situation_litellm_compromised/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/LocalLLaMA/comments/1s2fch0/developing_situation_litellm_compromised/">[comments]</a></span> </td></tr></table>
