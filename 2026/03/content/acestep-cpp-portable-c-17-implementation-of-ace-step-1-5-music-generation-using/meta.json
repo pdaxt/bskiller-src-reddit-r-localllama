@@ -1,0 +1,8 @@
+{
+  "id": "73572e78-0b19-431f-8978-849daf45bcd3",
+  "published_at": "2026-03-19T14:08:17+00:00",
+  "scraped_at": "2026-03-20 05:06:37",
+  "source": "Reddit r/LocalLLaMA",
+  "title": "acestep.cpp: portable C++17 implementation of ACE-Step 1.5 music generation using GGML. Runs on CPU, CUDA, ROCm, Metal, Vulkan",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ry1dy1/acestepcpp_portable_c17_implementation_of_acestep/"
+}
