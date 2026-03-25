@@ -1,0 +1,17 @@
+{
+  "id": "8cbe94a9-424d-4070-be24-86b5ec6b7eb6",
+  "title": "FlashAttention-4: 1613 TFLOPs/s, 2.7x faster than Triton, written in Python. What it means for inference.",
+  "source_url": "https://www.reddit.com/r/LocalLLaMA/comments/1s1yw23/flashattention4_1613_tflopss_27x_faster_than/",
+  "source_name": "Reddit r/LocalLLaMA",
+  "published_at": "2026-03-24T00:31:24+00:00",
+  "scraped_at": "2026-03-24 04:14:05",
+  "bs_score": 6.4,
+  "bs_rating": "High BS",
+  "human_bs_score": null,
+  "human_bs_rating": null,
+  "editorial_comment": null,
+  "category": "community",
+  "ai_summary": null,
+  "approved": true,
+  "author_name": "/u/Sensitive-Two9732"
+}
