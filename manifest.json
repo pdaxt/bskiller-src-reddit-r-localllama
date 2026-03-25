@@ -1,13 +1,6 @@
 {
-  "version": "1.0",
-  "source_name": "Reddit R Localllama",
+  "source_name": "Reddit r/LocalLLaMA",
   "repo": "bskiller-src-reddit-r-localllama",
-  "story_count": 137,
-  "last_updated": "2026-03-25T08:58:17Z",
-  "months": [
-    {
-      "month": "2026-03",
-      "story_count": 137
-    }
-  ]
+  "story_count": 18,
+  "last_updated": "2026-03-25T10:38:52.734592+00:00"
 }
