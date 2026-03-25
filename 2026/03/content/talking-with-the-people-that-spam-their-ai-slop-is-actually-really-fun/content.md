@@ -1,0 +1,7 @@
+# Talking with the people that spam their AI slop is actually really fun!
+
+Source: [Reddit r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1rzacir/talking_with_the_people_that_spam_their_ai_slop/)
+
+---
+
+<!-- SC_OFF --><div class="md"><p>The stuff they come up with is just so insane. It&#39;s like seeing all the funny stuff GPT2 would come up with several years back. The generic-ness of the titles also makes me laugh. &quot;founders&quot; &quot;solving&quot; coding with their ALL-NEW AGENTIC TOOL HARNESS. Sometimes they&#39;ve just hooked their Reddit account directly up to an LLM and you can have fun getting them to write poems for you while presumably eating up their API credits.</p> <p>It&#39;s fun seeing non-programmers run into classic computer science problems and get all shocked and stunned before coming up with what they believe to be an innovative solution and it&#39;s literally just rate-limiting. Like, I feel like 1/2 of all posts about agents are just people re-discovering basic DevOps. </p> <p>Maybe I&#39;m just a professional hater, but man this is a blast.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/EffectiveCeilingFan"> /u/EffectiveCeilingFan </a> <br/> <span><a href="https://www.reddit.com/r/LocalLLaMA/comments/1rzacir/talking_with_the_people_that_spam_their_ai_slop/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/LocalLLaMA/comments/1rzacir/talking_with_the_people_that_spam_their_ai_slop/">[comments]</a></span>
