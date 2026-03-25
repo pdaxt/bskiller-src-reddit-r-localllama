@@ -1,0 +1,7 @@
+# Glm 5.1 👀
+
+Source: [Reddit r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1rz24a2/glm_51/)
+
+---
+
+<table> <tr><td> <a href="https://www.reddit.com/r/LocalLLaMA/comments/1rz24a2/glm_51/"> <img src="https://preview.redd.it/z9631ui0g8qg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=99287bd178ea57b631a38e405dfb929a281dfc7d" alt="Glm 5.1 👀" title="Glm 5.1 👀" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Namra_7"> /u/Namra_7 </a> <br/> <span><a href="https://i.redd.it/z9631ui0g8qg1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/LocalLLaMA/comments/1rz24a2/glm_51/">[comments]</a></span> </td></tr></table>
