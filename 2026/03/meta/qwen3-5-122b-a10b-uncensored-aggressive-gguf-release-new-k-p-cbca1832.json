@@ -1,0 +1,17 @@
+{
+  "id": "cbca1832-b5d7-4939-87de-bacb7f71dcd1",
+  "title": "Qwen3.5-122B-A10B Uncensored (Aggressive) \u2014 GGUF Release + new K_P Quants",
+  "source_url": "https://www.reddit.com/r/LocalLLaMA/comments/1s0aa1y/qwen35122ba10b_uncensored_aggressive_gguf_release/",
+  "source_name": "Reddit r/LocalLLaMA",
+  "published_at": "2026-03-22T02:42:56+00:00",
+  "scraped_at": "2026-03-22 03:35:25",
+  "bs_score": 5.3,
+  "bs_rating": "Mixed Evidence",
+  "human_bs_score": null,
+  "human_bs_rating": null,
+  "editorial_comment": null,
+  "category": "community",
+  "ai_summary": "Community uncensor of Qwen 3.5 122B with bold 'zero capability loss' claims and self-branded 'Perfect' quantizations, but zero benchmark data to back it up. The model files are real and downloadable -- the marketing around them is where the BS lives.",
+  "approved": true,
+  "author_name": "/u/hauhau901"
+}
