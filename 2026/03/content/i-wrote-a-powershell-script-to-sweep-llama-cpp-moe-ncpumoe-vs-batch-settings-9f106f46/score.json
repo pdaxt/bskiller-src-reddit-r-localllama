@@ -1,0 +1,46 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 2.2,
+  "bs_rating": "Verified",
+  "scored_at": "2026-03-22 00:41:04",
+  "scoring_method": "ai",
+  "summary": "A developer shared a real benchmarking script for llama.cpp MoE settings with actual methodology and results. This is hands-on engineering work, not hype -- exactly the kind of practical tooling the local AI community needs.",
+  "career_angle": "Understanding MoE inference tuning (batch sizes, CPU offload tradeoffs) is increasingly valuable as mixture-of-experts models like Qwen 3.5 MoE become the default architecture. Build benchmarking intuition now.",
+  "dimensions": [
+    {
+      "dimension": "source_authority",
+      "score": 7.0,
+      "rationale": "r/LocalLLaMA practitioner sharing original work -- credible community source for local inference topics"
+    },
+    {
+      "dimension": "evidence_quality",
+      "score": 8.0,
+      "rationale": "Describes concrete methodology (binary search sweep, VRAM constraints, llama-bench under the hood) with visible output data"
+    },
+    {
+      "dimension": "reproducibility",
+      "score": 9.0,
+      "rationale": "PowerShell script is shared, uses llama-bench directly, parameters are explicit -- anyone with the hardware can reproduce"
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "score": 9.0,
+      "rationale": "No product pitch, no sponsorship, just a developer scratching their own itch and sharing the tool"
+    },
+    {
+      "dimension": "consensus",
+      "score": 7.0,
+      "rationale": "Non-linear batch/MoE tradeoffs align with known inference optimization behavior -- nothing controversial claimed"
+    },
+    {
+      "dimension": "specificity",
+      "score": 8.0,
+      "rationale": "Specific model (Qwen 3.5 MoE), specific parameters (nCpuMoe, batch size), specific tool (llama-bench), top-5 results table"
+    },
+    {
+      "dimension": "track_record",
+      "score": 6.0,
+      "rationale": "Anonymous Reddit user -- no established track record but the work speaks for itself"
+    }
+  ]
+}
