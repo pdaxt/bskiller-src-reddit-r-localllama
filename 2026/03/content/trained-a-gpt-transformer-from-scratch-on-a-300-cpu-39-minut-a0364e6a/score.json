@@ -1,0 +1,43 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 5.1,
+  "bs_rating": "Mixed Evidence",
+  "career_angle": "If you're learning transformers, Karpathy's nanoGPT tutorial does this better with actual explanation. Don't list 'trained a transformer from scratch' on your resume unless you scaled past toy data -- recruiters who know will laugh.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "score": 4.0,
+      "rationale": "Random Reddit poster with a GitHub repo, no ML credentials shown, r/LocalLLaMA is enthusiast-grade not peer-reviewed"
+    },
+    {
+      "dimension": "evidence_quality",
+      "score": 5.0,
+      "rationale": "Training logs and code are provided which is good, but the output quality speaks for itself -- pure gibberish after full training proves the model learned almost nothing useful"
+    },
+    {
+      "dimension": "reproducibility",
+      "score": 8.0,
+      "rationale": "Code is public, hardware is cheap, dataset is small -- anyone can reproduce this, which is actually the one honest part"
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "score": 4.0,
+      "rationale": "Classic clout farming on Reddit -- framing a trivial exercise as an achievement to drive GitHub stars and upvotes"
+    },
+    {
+      "dimension": "consensus",
+      "score": 3.0,
+      "rationale": "ML community consensus is clear: sub-1M param models on 201K chars produce nothing useful. This has been known since 2017. Karpathy's char-rnn blog post did this a decade ago"
+    },
+    {
+      "dimension": "specificity",
+      "score": 6.0,
+      "rationale": "Specific numbers provided (params, dataset size, hardware, timings) but critically omits context: 0.82M params is 150x smaller than GPT-2 small, and 28-char vocab is barely above Morse code"
+    },
+    {
+      "dimension": "track_record",
+      "score": 5.0,
+      "rationale": "No prior ML work visible, GitHub repo is a single project -- this reads like a first ML project dressed up as a discovery"
+    }
+  ]
+}
