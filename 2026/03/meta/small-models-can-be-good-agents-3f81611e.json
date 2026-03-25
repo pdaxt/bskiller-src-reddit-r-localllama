@@ -1,0 +1,17 @@
+{
+  "id": "3f81611e-8dab-4823-948b-100db91ad745",
+  "title": "Small models can be good agents",
+  "source_url": "https://www.reddit.com/r/LocalLLaMA/comments/1rzv31l/small_models_can_be_good_agents/",
+  "source_name": "Reddit r/LocalLLaMA",
+  "published_at": "2026-03-21T15:59:54+00:00",
+  "scraped_at": "2026-03-22 00:41:03",
+  "bs_score": 4.5,
+  "bs_rating": "Mixed Signals",
+  "human_bs_score": null,
+  "human_bs_rating": null,
+  "editorial_comment": null,
+  "category": "community",
+  "ai_summary": "Hobbyist says small models can do agent tasks but shows zero benchmarks, no model names, no success rates -- just a prompt and vibes. The claim isn't wrong in principle, but this post is 'trust me bro' dressed up as a finding.",
+  "approved": true,
+  "author_name": "/u/mikkel1156"
+}
