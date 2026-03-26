@@ -2,11 +2,8 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 3.3,
   "bs_rating": "Mixed Evidence",
-  "scored_at": "2026-03-22 03:35:26",
-  "scoring_method": "ai",
-  "summary": "Legit kernel hack exploiting RDNA3's fp16 units to emulate fp8 matmul, with open source code to back it up. Developer is refreshingly honest that it's a proof of concept, not a miracle.",
   "career_angle": "If you're doing ML on AMD GPUs, this is worth watching -- RDNA3 optimization skills are rare and increasingly valuable as the GPU market diversifies beyond NVIDIA.",
-  "dimensions": [
+  "factors": [
     {
       "dimension": "source_authority",
       "score": 6.0,
