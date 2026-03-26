@@ -2,11 +2,8 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 3.0,
   "bs_rating": "Mostly Credible",
-  "scored_at": "2026-03-22 00:41:03",
-  "scoring_method": "ai",
-  "summary": "Genuine hardware decision thread from a local LLM enthusiast weighing multi-GPU 5090 setups against a single Pro 6000 for VRAM consolidation. No hype, no product shilling -- just a builder with real hardware asking a practical question.",
   "career_angle": "Understanding GPU VRAM economics (multi-card NVLink overhead vs single-card simplicity) is increasingly relevant as local inference becomes a real deployment option. If you're building AI infra skills, knowing when 96GB unified beats 3x32GB split is the kind of practical knowledge that separates paper architects from people who ship.",
-  "dimensions": [
+  "factors": [
     {
       "dimension": "source_authority",
       "score": 6.0,
