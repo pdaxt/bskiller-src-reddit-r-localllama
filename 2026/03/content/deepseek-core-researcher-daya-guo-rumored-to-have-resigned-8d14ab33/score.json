@@ -2,11 +2,8 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 6.0,
   "bs_rating": "Mixed Signals",
-  "scored_at": "2026-03-22 00:41:03",
-  "scoring_method": "ai",
-  "summary": "Unconfirmed resignation rumor with zero official sources, contradictory destination claims (Baidu? ByteDance? Nobody knows), and the classic 'industry sources say' hand-wave. The biographical details are real but they're padding -- the actual news claim has no receipts.",
   "career_angle": "Don't read tea leaves from unconfirmed departures -- if you're building on DeepSeek models, watch their GitHub commit activity and paper output for actual capability signals, not LinkedIn gossip.",
-  "dimensions": [
+  "factors": [
     {
       "dimension": "source_authority",
       "score": 4.0,
