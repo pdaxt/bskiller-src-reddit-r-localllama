@@ -1,0 +1,57 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 6.3,
+  "bs_rating": "High BS",
+  "career_angle": "LLM developments affect every developer. Understand the capabilities and limitations - knowing what AI can't do is as valuable as knowing what it can.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "name": "Source Authority",
+      "rationale": "'Qwen3.5-397B-A17B reaches 20 t/s TG and 700t/s PP with a ...' -- Reddit r/LocalLLaMA is lower-tier or promotional source (tier_4, reliability: 40%) reporting on NVIDIA, Apple",
+      "score": 3.5,
+      "weight": 0.15
+    },
+    {
+      "dimension": "evidence_quality",
+      "name": "Evidence Quality",
+      "rationale": "'Qwen3.5-397B-A17B reaches 20 t/s TG and 700t/s PP with a ...' -- no benchmarks, datasets, or citations found to support claims",
+      "score": 3.0,
+      "weight": 0.2
+    },
+    {
+      "dimension": "reproducibility",
+      "name": "Reproducibility",
+      "rationale": "'Qwen3.5-397B-A17B reaches 20 t/s TG and 700t/s PP with a ...' (NVIDIA, Apple) -- no code, methodology, or reproducibility details provided",
+      "score": 4.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "name": "Conflict of Interest",
+      "rationale": "Reddit r/LocalLLaMA covers NVIDIA, Apple -- no overt promotional language, but independence not confirmed",
+      "score": 5.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "consensus",
+      "name": "Consensus",
+      "rationale": "'Qwen3.5-397B-A17B reaches 20 t/s TG and 700t/s PP with a ...' uses heavy hype language (10.0/10) -- claim likely ahead of expert consensus",
+      "score": 3.5,
+      "weight": 0.15
+    },
+    {
+      "dimension": "specificity",
+      "name": "Specificity",
+      "rationale": "'Qwen3.5-397B-A17B reaches 20 t/s TG and 700t/s PP with a ...' -- no specific or falsifiable claims identified",
+      "score": 4.0,
+      "weight": 0.1
+    },
+    {
+      "dimension": "track_record",
+      "name": "Track Record",
+      "rationale": "Reddit r/LocalLLaMA on NVIDIA/Apple topics -- limited or inconsistent track record",
+      "score": 3.5,
+      "weight": 0.1
+    }
+  ]
+}
