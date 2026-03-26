@@ -2,11 +2,8 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 6.5,
   "bs_rating": "High BS",
-  "scored_at": "2026-03-22 00:41:03",
-  "scoring_method": "ai",
-  "summary": "Moonshot's 'it was authorized all along' claim after getting caught using their model unlabeled in Cursor reeks of retroactive face-saving. No contract details, no independent verification -- just a convenient story that lets everyone walk away clean.",
   "career_angle": "If you're building on third-party AI APIs, get model provenance guarantees in writing before shipping -- 'reseller' intermediaries like Fireworks create attribution gaps that blow up publicly. This is also a signal that model licensing is becoming a career-relevant legal literacy area for senior engineers.",
-  "dimensions": [
+  "factors": [
     {
       "dimension": "source_authority",
       "score": 4.0,
