@@ -2,11 +2,8 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 6.6,
   "bs_rating": "Mixed Signals",
-  "scored_at": "2026-03-21 03:17:58",
-  "scoring_method": "heuristic",
-  "summary": "",
   "career_angle": "AI agent engineering is the fastest-growing role in tech. If you can build reliable agent systems, you're in high demand.",
-  "dimensions": [
+  "factors": [
     {
       "dimension": "source_authority",
       "name": "Source Authority",
