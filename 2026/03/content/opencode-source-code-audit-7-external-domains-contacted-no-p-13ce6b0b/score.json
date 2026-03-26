@@ -1,0 +1,57 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 5.7,
+  "bs_rating": "Mixed Evidence",
+  "career_angle": "AI agent engineering is the fastest-growing role in tech. If you can build reliable agent systems, you're in high demand.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "name": "Source Authority",
+      "rationale": "'OpenCode source code audit: 7 external domains contacted,...' -- Reddit r/LocalLLaMA is lower-tier or promotional source (tier_4, reliability: 40%)",
+      "score": 3.5,
+      "weight": 0.15
+    },
+    {
+      "dimension": "evidence_quality",
+      "name": "Evidence Quality",
+      "rationale": "mentions benchmarks or datasets",
+      "score": 4.5,
+      "weight": 0.2
+    },
+    {
+      "dimension": "reproducibility",
+      "name": "Reproducibility",
+      "rationale": "'OpenCode source code audit: 7 external domains contacted,...' -- no code, methodology, or reproducibility details provided",
+      "score": 4.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "name": "Conflict of Interest",
+      "rationale": "'OpenCode source code audit: 7 external domains contacted,...' -- no overt promotional language from Reddit r/LocalLLaMA, but independence not confirmed",
+      "score": 5.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "consensus",
+      "name": "Consensus",
+      "rationale": "'OpenCode source code audit: 7 external domains contacted,...' -- not cross-referenced against external expert consensus",
+      "score": 5.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "specificity",
+      "name": "Specificity",
+      "rationale": "'OpenCode source code audit: 7 external domains contacted,...' -- no specific or falsifiable claims identified",
+      "score": 4.0,
+      "weight": 0.1
+    },
+    {
+      "dimension": "track_record",
+      "name": "Track Record",
+      "rationale": "Reddit r/LocalLLaMA -- limited or inconsistent track record",
+      "score": 3.5,
+      "weight": 0.1
+    }
+  ]
+}
