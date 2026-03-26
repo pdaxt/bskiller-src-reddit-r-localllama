@@ -1,0 +1,57 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 5.3,
+  "bs_rating": "Mixed Evidence",
+  "career_angle": "LLM developments affect every developer. Understand the capabilities and limitations - knowing what AI can't do is as valuable as knowing what it can.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "name": "Source Authority",
+      "rationale": "'MolmoWeb 4B/8B' -- Reddit r/LocalLLaMA is lower-tier or promotional source (tier_4, reliability: 40%) reporting on GPT-4",
+      "score": 3.5,
+      "weight": 0.15
+    },
+    {
+      "dimension": "evidence_quality",
+      "name": "Evidence Quality",
+      "rationale": "references academic work; specific figures cited: 'tion, achieving 94.7%', 'eving 94.7% and 60.5%', '@4 (compared to 78.2%'",
+      "score": 4.5,
+      "weight": 0.2
+    },
+    {
+      "dimension": "reproducibility",
+      "name": "Reproducibility",
+      "rationale": "links to HuggingFace model/dataset",
+      "score": 6.5,
+      "weight": 0.15
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "name": "Conflict of Interest",
+      "rationale": "Reddit r/LocalLLaMA covers GPT-4 -- no overt promotional language, but independence not confirmed",
+      "score": 5.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "consensus",
+      "name": "Consensus",
+      "rationale": "'MolmoWeb 4B/8B' -- not cross-referenced against external expert consensus",
+      "score": 5.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "specificity",
+      "name": "Specificity",
+      "rationale": "cites concrete figures: 'tion, achieving 94.7%', 'eving 94.7% and 60.5%', '@4 (compared to 78.2%'",
+      "score": 4.5,
+      "weight": 0.1
+    },
+    {
+      "dimension": "track_record",
+      "name": "Track Record",
+      "rationale": "Reddit r/LocalLLaMA on GPT-4 topics -- limited or inconsistent track record",
+      "score": 3.5,
+      "weight": 0.1
+    }
+  ]
+}
