@@ -2,11 +2,8 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 4.2,
   "bs_rating": "Mixed Evidence",
-  "scored_at": "2026-03-22 00:41:04",
-  "scoring_method": "ai",
-  "summary": "Honest question from a dev exploring local coding agents -- no hype, no claims, just someone trying to figure out what actually works for end-to-end app development with local models.",
   "career_angle": "If you have 24GB VRAM, tools like Aider + Qwen2.5-Coder-32B (Q4) or DeepSeek-Coder-V2-Lite actually work for real dev workflows. Learn to pair local models with good scaffolding rather than waiting for cloud parity.",
-  "dimensions": [
+  "factors": [
     {
       "dimension": "source_authority",
       "score": 5.0,
