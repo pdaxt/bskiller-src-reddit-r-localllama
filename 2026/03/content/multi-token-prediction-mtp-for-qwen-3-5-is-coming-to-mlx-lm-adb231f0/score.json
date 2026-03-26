@@ -2,11 +2,8 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 2.5,
   "bs_rating": "Mostly Credible",
-  "scored_at": "2026-03-22 00:41:03",
-  "scoring_method": "ai",
-  "summary": "Real open-source PR with actual benchmarks on specific hardware -- this is how legitimate performance claims should look. A 1.5x speedup from speculative decoding on Apple Silicon is consistent with known MTP gains, not some hallucinated 10x moonshot.",
   "career_angle": "If you run local models on Mac, MTP support in mlx-lm is worth tracking -- speculative decoding is becoming table stakes for inference frameworks. Understanding multi-token prediction mechanics gives you an edge in optimizing local deployment pipelines.",
-  "dimensions": [
+  "factors": [
     {
       "dimension": "source_authority",
       "score": 6.0,
