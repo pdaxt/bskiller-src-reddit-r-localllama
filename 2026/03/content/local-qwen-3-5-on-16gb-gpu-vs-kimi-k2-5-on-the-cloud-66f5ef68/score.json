@@ -1,0 +1,57 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 6.3,
+  "bs_rating": "High BS",
+  "career_angle": "Infrastructure skills for AI workloads (GPU scheduling, agent scaling, MCP deployment) are the highest-value DevOps specialization right now.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "name": "Source Authority",
+      "rationale": "'Local Qwen 3.5 on 16GB GPU vs Kimi K2.5 on the cloud' -- Reddit r/LocalLLaMA is lower-tier or promotional source (tier_4, reliability: 40%)",
+      "score": 3.5,
+      "weight": 0.15
+    },
+    {
+      "dimension": "evidence_quality",
+      "name": "Evidence Quality",
+      "rationale": "'Local Qwen 3.5 on 16GB GPU vs Kimi K2.5 on the cloud' -- no benchmarks, datasets, or citations found to support claims",
+      "score": 3.0,
+      "weight": 0.2
+    },
+    {
+      "dimension": "reproducibility",
+      "name": "Reproducibility",
+      "rationale": "'Local Qwen 3.5 on 16GB GPU vs Kimi K2.5 on the cloud' -- no code, methodology, or reproducibility details provided",
+      "score": 4.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "name": "Conflict of Interest",
+      "rationale": "'Local Qwen 3.5 on 16GB GPU vs Kimi K2.5 on the cloud' -- no overt promotional language from Reddit r/LocalLLaMA, but independence not confirmed",
+      "score": 5.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "consensus",
+      "name": "Consensus",
+      "rationale": "'Local Qwen 3.5 on 16GB GPU vs Kimi K2.5 on the cloud' uses heavy hype language (5.5/10) -- claim likely ahead of expert consensus",
+      "score": 3.5,
+      "weight": 0.15
+    },
+    {
+      "dimension": "specificity",
+      "name": "Specificity",
+      "rationale": "'Local Qwen 3.5 on 16GB GPU vs Kimi K2.5 on the cloud' -- no specific or falsifiable claims identified",
+      "score": 4.0,
+      "weight": 0.1
+    },
+    {
+      "dimension": "track_record",
+      "name": "Track Record",
+      "rationale": "Reddit r/LocalLLaMA -- limited or inconsistent track record",
+      "score": 3.5,
+      "weight": 0.1
+    }
+  ]
+}
