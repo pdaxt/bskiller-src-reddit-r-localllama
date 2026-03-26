@@ -2,11 +2,8 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 4.5,
   "bs_rating": "Mixed Signals",
-  "scored_at": "2026-03-22 00:41:03",
-  "scoring_method": "ai",
-  "summary": "Hobbyist says small models can do agent tasks but shows zero benchmarks, no model names, no success rates -- just a prompt and vibes. The claim isn't wrong in principle, but this post is 'trust me bro' dressed up as a finding.",
   "career_angle": "Don't wait for this post to validate small-model agents -- run your own evals with Qwen3 or Phi-4 on structured tool-calling benchmarks like BFCL before betting your stack on sub-30B agentic workflows.",
-  "dimensions": [
+  "factors": [
     {
       "dimension": "source_authority",
       "score": 3.5,
