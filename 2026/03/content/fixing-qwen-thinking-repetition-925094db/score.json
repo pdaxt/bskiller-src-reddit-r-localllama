@@ -2,11 +2,8 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 6.0,
   "bs_rating": "Mixed Signals",
-  "scored_at": "2026-03-22 00:41:03",
-  "scoring_method": "ai",
-  "summary": "One Reddit user claims pasting Claude's system prompt into Qwen 3.5 fixes thinking repetition -- a classic 'worked on my machine' anecdote with zero controlled testing. Presence penalty at 1.5 is doing most of the heavy lifting here, not the system prompt magic.",
   "career_angle": "If you run local LLMs, understanding sampling parameters (presence/frequency penalty, temperature) matters more than cargo-culting system prompts. Learn what repetition penalty actually does at the token level.",
-  "dimensions": [
+  "factors": [
     {
       "dimension": "source_authority",
       "score": 4.0,
