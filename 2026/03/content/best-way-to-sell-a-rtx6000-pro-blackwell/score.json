@@ -1,0 +1,44 @@
+{
+  "bs_rating": "Mixed Evidence",
+  "bs_score": 3.9,
+  "career_angle": "If you're in AI/ML, buying used pro GPUs from researchers transitioning to industry jobs is one of the cheapest ways to build a local inference rig. Watch r/LocalLLaMA and r/hardwareswap for deals.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "rationale": "Random Reddit user, no verified credentials, but r/LocalLLaMA is a legitimate community for GPU/AI discussion",
+      "score": 5.0
+    },
+    {
+      "dimension": "evidence_quality",
+      "rationale": "No claims being made -- it's a question post, not a news story. The scenario (researcher gets job, sells GPU) is entirely plausible",
+      "score": 7.0
+    },
+    {
+      "dimension": "reproducibility",
+      "rationale": "Hardware resale is a concrete, verifiable situation. RTX 6000 Pro Blackwell exists, prices are publicly trackable",
+      "score": 8.0
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "rationale": "Seller has obvious financial interest, but they're transparent about it. Could be fishing for above-market offers, but the post reads genuine",
+      "score": 4.0
+    },
+    {
+      "dimension": "consensus",
+      "rationale": "GPU resale challenges (shipping risk, local verification, small markets) are well-documented and widely discussed",
+      "score": 7.0
+    },
+    {
+      "dimension": "specificity",
+      "rationale": "Specific GPU model and location mentioned. The core question about proving functionality at a meetup is a real logistics problem",
+      "score": 6.0
+    },
+    {
+      "dimension": "track_record",
+      "rationale": "New-ish Reddit account, no track record to evaluate. Standard for hardware resale posts",
+      "score": 5.0
+    }
+  ],
+  "scorer": "bsaf-heuristic",
+  "version": "1.0"
+}
