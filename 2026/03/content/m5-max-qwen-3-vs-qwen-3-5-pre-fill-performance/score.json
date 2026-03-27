@@ -1,0 +1,44 @@
+{
+  "bs_rating": "Mixed Evidence",
+  "bs_score": 5.2,
+  "career_angle": "If you're building local LLM inference pipelines, hybrid attention architectures (like Qwen 3.5's) genuinely matter for long-context workloads -- but validate with your own hardware and workload before making infra decisions off Reddit posts.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "rationale": "Anonymous Reddit user on r/LocalLLaMA, no credentials or affiliation disclosed",
+      "score": 4.0
+    },
+    {
+      "dimension": "evidence_quality",
+      "rationale": "Vague 'nearly 2x faster at 128K+' claim with no charts, methodology, or controlled comparison shown in the summary",
+      "score": 4.0
+    },
+    {
+      "dimension": "reproducibility",
+      "rationale": "Uses publicly available models (Qwen 3.5-9B MLX 4bit) and LM Studio -- anyone with an M5 Max could reproduce",
+      "score": 7.0
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "rationale": "Username 'M5_Maxxx' suggests identity tied to the hardware being showcased -- motivated to make it look good",
+      "score": 4.0
+    },
+    {
+      "dimension": "consensus",
+      "rationale": "Hybrid attention improving long-context performance is architecturally sound and documented, but this specific benchmark is unvalidated",
+      "score": 5.0
+    },
+    {
+      "dimension": "specificity",
+      "rationale": "Names exact models, quantization level, and context length threshold -- but no latency numbers, batch sizes, or test parameters",
+      "score": 6.0
+    },
+    {
+      "dimension": "track_record",
+      "rationale": "Unknown poster with one prior related post, no established benchmarking track record",
+      "score": 4.0
+    }
+  ],
+  "scorer": "bsaf-heuristic",
+  "version": "1.0"
+}
