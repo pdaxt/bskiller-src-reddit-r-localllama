@@ -1,0 +1,44 @@
+{
+  "bs_rating": "Mixed Evidence",
+  "bs_score": 5.8,
+  "career_angle": "Don't chase 'beats X on Y' headlines when evaluating models for production use -- always check if the claimed advantage holds on YOUR actual workload, not two trick questions from Reddit.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "rationale": "Reddit r/LocalLLaMA post by the model creator themselves -- community forum, not peer-reviewed, poster has direct stake in hype",
+      "score": 4.0
+    },
+    {
+      "dimension": "evidence_quality",
+      "rationale": "Two trick questions is not a benchmark. No systematic evaluation, no statistical significance, no controlled comparison methodology",
+      "score": 3.0
+    },
+    {
+      "dimension": "reproducibility",
+      "rationale": "Model weights are presumably available on HuggingFace so others could test, but the specific 'first try' claim is hard to verify without temperature/seed info",
+      "score": 5.0
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "rationale": "Creator promoting their own model -- classic self-promotion disguised as community sharing. Title engineered for maximum engagement by name-dropping Claude",
+      "score": 3.0
+    },
+    {
+      "dimension": "consensus",
+      "rationale": "Open-source 70B models can genuinely surprise on specific tasks, but 'beats frontier models' claims from creators are a dime a dozen on LocalLLaMA",
+      "score": 5.0
+    },
+    {
+      "dimension": "specificity",
+      "rationale": "At least names the exact questions and acknowledges the 32B variant fails -- some intellectual honesty, but still just two data points",
+      "score": 6.0
+    },
+    {
+      "dimension": "track_record",
+      "rationale": "LocalLLaMA regularly produces 'my model beats GPT/Claude' posts that don't hold up to broader evaluation -- the subreddit's base rate for overclaiming is high",
+      "score": 5.0
+    }
+  ],
+  "scorer": "bsaf-heuristic",
+  "version": "1.0"
+}
