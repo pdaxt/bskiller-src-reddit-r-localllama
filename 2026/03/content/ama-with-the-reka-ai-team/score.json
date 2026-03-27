@@ -1,0 +1,44 @@
+{
+  "bs_rating": "Mixed Evidence",
+  "bs_score": 4.9,
+  "career_angle": "Edge vision-language models are a growing niche -- if you're into on-device AI or robotics, Reka's open weights are worth benchmarking against Qwen-VL and PaliGemma before betting your stack on any one vendor.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "rationale": "Reka is a legitimate but smaller AI lab (raised $58M Series A). r/LocalLLaMA is the right venue but AMA is self-promotional by nature.",
+      "score": 6.0
+    },
+    {
+      "dimension": "evidence_quality",
+      "rationale": "They released a model you can actually download and test, which beats most announcements. But no benchmarks, papers, or comparative results were presented in the AMA itself.",
+      "score": 5.0
+    },
+    {
+      "dimension": "reproducibility",
+      "rationale": "Model is available via API and playground. No GGUF or quantized versions yet -- they promised these are coming, which means local reproducibility is limited.",
+      "score": 7.0
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "rationale": "This is literally a company promoting its own product on Reddit. The entire AMA is a marketing exercise dressed as community engagement.",
+      "score": 3.0
+    },
+    {
+      "dimension": "consensus",
+      "rationale": "Reka Edge exists in a crowded VLM space. Community reception was lukewarm -- cat flap questions got more traction than technical depth.",
+      "score": 5.0
+    },
+    {
+      "dimension": "specificity",
+      "rationale": "Vague promises about 'generating and acting in the physical world' with zero specifics. Classic roadmap hand-waving.",
+      "score": 4.0
+    },
+    {
+      "dimension": "track_record",
+      "rationale": "Reka previously shipped Reka Core and Flash models that were decent but not category-leading. They deliver real models but tend to overpromise on positioning.",
+      "score": 6.0
+    }
+  ],
+  "scorer": "bsaf-heuristic",
+  "version": "1.0"
+}
