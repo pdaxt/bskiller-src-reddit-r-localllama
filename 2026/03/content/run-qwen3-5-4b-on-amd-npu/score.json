@@ -1,0 +1,44 @@
+{
+  "bs_rating": "Mixed Evidence",
+  "bs_score": 4.4,
+  "career_angle": "AMD XDNA2 NPU development is a genuine emerging niche -- learn ONNX Runtime and NPU compilation toolchains now before the talent pool catches up to demand.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "rationale": "Reddit community post, no institutional backing or peer review",
+      "score": 5.0
+    },
+    {
+      "dimension": "evidence_quality",
+      "rationale": "Specific versions, hardware specs, and benchmark numbers provided but all self-reported with no independent validation",
+      "score": 6.0
+    },
+    {
+      "dimension": "reproducibility",
+      "rationale": "Open-source tools on GitHub with exact hardware model and software versions listed -- reproducible if you own the hardware",
+      "score": 7.0
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "rationale": "Poster almost certainly affiliated with FastFlowLM/Lemonade -- this is a product promo disguised as a community benchmark post",
+      "score": 3.0
+    },
+    {
+      "dimension": "consensus",
+      "rationale": "NPU inference for small models is well-established and plausible, but specific performance claims lack third-party corroboration",
+      "score": 6.0
+    },
+    {
+      "dimension": "specificity",
+      "rationale": "Exact hardware, software versions, thermal data, benchmark scores, and direct links -- unusually detailed for a Reddit post",
+      "score": 8.0
+    },
+    {
+      "dimension": "track_record",
+      "rationale": "FastFlowLM is relatively new with limited community track record; Lemonade server gaining traction but unproven at scale",
+      "score": 5.0
+    }
+  ],
+  "scorer": "bsaf-heuristic",
+  "version": "1.0"
+}
