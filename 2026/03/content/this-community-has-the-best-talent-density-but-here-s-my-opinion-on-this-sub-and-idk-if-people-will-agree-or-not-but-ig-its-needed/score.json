@@ -1,0 +1,44 @@
+{
+  "bs_rating": "Mixed Evidence",
+  "bs_score": 5.8,
+  "career_angle": "The underlying signal is real: building practical local LLM deployments (legal doc ingestion, tailscale-served models) is a legit career moat. Skip the community hype, study the actual architectures people mention.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "rationale": "Anonymous Reddit user with no stated credentials, making broad claims about community talent based on DMs nobody else can verify",
+      "score": 4.0
+    },
+    {
+      "dimension": "evidence_quality",
+      "rationale": "Pure anecdote. 'Some guy built X' and 'someone recouped costs in 10 days' with zero links, repos, or specifics beyond vague descriptions",
+      "score": 3.0
+    },
+    {
+      "dimension": "reproducibility",
+      "rationale": "No architectures shared, no code, no configs. The law firm 3090 setup sounds interesting but the retrieval layer details that supposedly taught the author something are conspicuously absent",
+      "score": 3.0
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "rationale": "Links to own previous post for engagement. Positioning as community thought leader while complaining about 'noise' is a classic engagement farming pattern on Reddit",
+      "score": 5.0
+    },
+    {
+      "dimension": "consensus",
+      "rationale": "The meta-complaint about benchmark wars drowning out real work is widely shared sentiment in local LLM communities, so directionally accurate",
+      "score": 6.0
+    },
+    {
+      "dimension": "specificity",
+      "rationale": "Organ-on-chip mention is oddly specific but unverifiable. Most claims are vague ('people are quietly building amazing things') which is unfalsifiable feel-good content",
+      "score": 4.0
+    },
+    {
+      "dimension": "track_record",
+      "rationale": "OP mentions starting with M1 Max 3 years ago, suggesting genuine involvement, but the post itself is more vibes than substance",
+      "score": 5.0
+    }
+  ],
+  "scorer": "bsaf-heuristic",
+  "version": "1.0"
+}
