@@ -1,0 +1,44 @@
+{
+  "bs_rating": "Mixed Evidence",
+  "bs_score": 3.8,
+  "career_angle": "If you're building local LLM inference stacks, Intel ARC B70 Pro at ~$250/card with 24GB VRAM is worth tracking as a budget alternative to NVIDIA. Learn SYCL/oneAPI now -- Intel GPU inference tooling is maturing fast and that skill gap is a career arbitrage.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "rationale": "Level1Techs/Wendell is a top-tier independent hardware reviewer with deep server and AI hardware expertise",
+      "score": 8.0
+    },
+    {
+      "dimension": "evidence_quality",
+      "rationale": "Labeled 'initial review' -- hands-on with real hardware but not yet a full benchmark suite with controlled methodology",
+      "score": 5.0
+    },
+    {
+      "dimension": "reproducibility",
+      "rationale": "Physical hardware tests with commercially available GPUs running open-source models -- anyone can buy the cards and replicate",
+      "score": 7.0
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "rationale": "Having 4 B70 Pro units suggests possible Intel seeding, though Level1Techs has a history of buying hardware independently",
+      "score": 6.0
+    },
+    {
+      "dimension": "consensus",
+      "rationale": "ARC B70 for LLM inference is early-stage -- community results are mixed and Intel's software stack is still catching up",
+      "score": 5.0
+    },
+    {
+      "dimension": "specificity",
+      "rationale": "Reddit post is a bare link with no summary, benchmarks, or methodology details -- 'Qwen and more' is vague",
+      "score": 5.0
+    },
+    {
+      "dimension": "track_record",
+      "rationale": "Level1Techs has years of credible, no-BS hardware analysis with no history of vendor shilling",
+      "score": 8.0
+    }
+  ],
+  "scorer": "bsaf-heuristic",
+  "version": "1.0"
+}
