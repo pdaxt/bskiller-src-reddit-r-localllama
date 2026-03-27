@@ -1,0 +1,44 @@
+{
+  "bs_rating": "Verified",
+  "bs_score": 2.4,
+  "career_angle": "Audit your CI/CD pipelines for transitive trust -- if your security scanner gets owned, your entire release chain is compromised. Pin dependency versions and verify checksums; never trust rolling latest in production agent stacks.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "rationale": "Reddit community post, not an official CVE or security advisory, but incident confirmed by multiple security outlets and LiteLLM team",
+      "score": 5.0
+    },
+    {
+      "dimension": "evidence_quality",
+      "rationale": "Specific version numbers, exact attack chain (Trivy -> PyPI token -> poisoned release), named backdoor path, concrete remediation steps",
+      "score": 8.5
+    },
+    {
+      "dimension": "reproducibility",
+      "rationale": "Verifiable via PyPI release history, GitHub security advisories, and checking for the specific backdoor file on affected systems",
+      "score": 8.0
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "rationale": "Poster mentions their own project uses LiteLLM but is sharing remediation info, not selling anything -- minor bias toward amplifying severity",
+      "score": 7.0
+    },
+    {
+      "dimension": "consensus",
+      "rationale": "Widely confirmed across security community, LiteLLM acknowledged the incident, multiple independent writeups corroborate the timeline",
+      "score": 8.0
+    },
+    {
+      "dimension": "specificity",
+      "rationale": "Exact versions (1.82.7, 1.82.8), exact attack mechanism (.pth file), exact window (3 hours), exact remediation commands -- unusually detailed for a Reddit post",
+      "score": 9.0
+    },
+    {
+      "dimension": "track_record",
+      "rationale": "PyPI supply chain attacks are a known and growing pattern (cf. ua-parser-js, event-stream); this fits established attack taxonomy perfectly",
+      "score": 7.5
+    }
+  ],
+  "scorer": "bsaf-heuristic",
+  "version": "1.0"
+}
