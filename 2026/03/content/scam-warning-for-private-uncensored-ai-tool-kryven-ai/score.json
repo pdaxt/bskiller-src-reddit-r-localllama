@@ -1,0 +1,44 @@
+{
+  "bs_rating": "Verified",
+  "bs_score": 2.5,
+  "career_angle": "If you build AI wrappers, this is your cautionary tale: technical users WILL inspect your API calls, hosting stack, and domain WHOIS. Differentiate with real value, not obfuscation.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "rationale": "r/LocalLLaMA is the most technically literate AI community on Reddit; poster spent their own money to investigate",
+      "score": 7.0
+    },
+    {
+      "dimension": "evidence_quality",
+      "rationale": "Multiple independent evidence lines: direct product testing, domain WHOIS, hosting infrastructure analysis, cross-referenced user reports, system prompt probing",
+      "score": 8.0
+    },
+    {
+      "dimension": "reproducibility",
+      "rationale": "Anyone can check the domain registration date, Railway hosting headers, and test the model responses themselves",
+      "score": 8.0
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "rationale": "Poster has no apparent financial motive; actually lost money buying tokens to test. No competing product being promoted",
+      "score": 7.0
+    },
+    {
+      "dimension": "consensus",
+      "rationale": "Multiple Reddit users independently flagged similar concerns; no credible defenders of Kryven emerged",
+      "score": 7.0
+    },
+    {
+      "dimension": "specificity",
+      "rationale": "Exact model identification (Gemini), specific hosting platform (Railway), precise domain registration timeline, verbatim system prompt quotes",
+      "score": 9.0
+    },
+    {
+      "dimension": "track_record",
+      "rationale": "Kryven AI has zero public track record; December 2025 domain registration with immediate monetization is a classic scam pattern",
+      "score": 6.0
+    }
+  ],
+  "scorer": "bsaf-heuristic",
+  "version": "1.0"
+}
