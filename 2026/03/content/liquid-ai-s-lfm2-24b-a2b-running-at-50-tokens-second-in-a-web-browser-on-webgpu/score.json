@@ -1,0 +1,44 @@
+{
+  "bs_rating": "Verified",
+  "bs_score": 2.0,
+  "career_angle": "WebGPU inference is the quiet revolution -- if you can ship models that run client-side with zero backend cost, you become extremely hireable. Learn ONNX export pipelines and WebGPU compute shaders now; this stack will eat traditional API-served inference for latency-sensitive apps.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "rationale": "Xenova is HuggingFace's transformers.js creator, Liquid AI is an MIT spinoff with real research pedigree, r/LocalLLaMA is the gold standard community for local inference",
+      "score": 9.0
+    },
+    {
+      "dimension": "evidence_quality",
+      "rationale": "Working demo on HuggingFace Spaces, full source code, downloadable ONNX models -- this is show-don't-tell at its best",
+      "score": 9.0
+    },
+    {
+      "dimension": "reproducibility",
+      "rationale": "Anyone with a WebGPU-capable browser can try the demo right now; ONNX weights publicly available; hardware specified clearly",
+      "score": 8.0
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "rationale": "Xenova works at HuggingFace (hosting platform), Liquid AI is showcasing their own model -- both have promotional incentives, though open-sourcing everything mitigates this significantly",
+      "score": 6.0
+    },
+    {
+      "dimension": "consensus",
+      "rationale": "MoE in-browser inference is cutting edge with limited independent benchmarks, but the LocalLLaMA community has validated similar WebGPU performance claims before",
+      "score": 7.0
+    },
+    {
+      "dimension": "specificity",
+      "rationale": "Exact param counts (24B total/2B active), exact speeds (50 tok/s and 100+ tok/s), specific hardware (M4 Max), named model variants, direct links to everything",
+      "score": 9.0
+    },
+    {
+      "dimension": "track_record",
+      "rationale": "Liquid AI published peer-reviewed liquid neural network research; Xenova shipped transformers.js which is used in production by thousands of devs",
+      "score": 8.0
+    }
+  ],
+  "scorer": "bsaf-heuristic",
+  "version": "1.0"
+}
