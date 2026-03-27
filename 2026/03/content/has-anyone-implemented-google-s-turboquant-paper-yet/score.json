@@ -1,0 +1,44 @@
+{
+  "bs_rating": "Mixed Evidence",
+  "bs_score": 4.9,
+  "career_angle": "If you work with LLM inference, read the actual paper before betting your architecture on it -- 'zero accuracy loss' claims rarely survive real-world workloads outside cherry-picked benchmarks. Worth tracking but not redesigning your stack around yet.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "rationale": "Google Research at ICLR 2026 is credible, but the source here is a Reddit post parroting blog claims with no firsthand analysis",
+      "score": 6.0
+    },
+    {
+      "dimension": "evidence_quality",
+      "rationale": "References a blog post, not the paper. No independent benchmarks, no code results, no community validation -- just Google's self-reported numbers",
+      "score": 4.0
+    },
+    {
+      "dimension": "reproducibility",
+      "rationale": "The entire post exists because nobody has reproduced it. Until community implementations confirm the numbers, these are paper claims only",
+      "score": 4.0
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "rationale": "Google publishing impressive compression results for their own inference stack has obvious incentive alignment. Not disqualifying but worth noting",
+      "score": 5.0
+    },
+    {
+      "dimension": "consensus",
+      "rationale": "Too early for consensus. ICLR peer review passed but real-world validation from independent teams is missing",
+      "score": 5.0
+    },
+    {
+      "dimension": "specificity",
+      "rationale": "Specific numbers (6x compression, 8x speedup, H100s) are good, but 'zero accuracy loss' is suspiciously clean for aggressive quantization",
+      "score": 7.0
+    },
+    {
+      "dimension": "track_record",
+      "rationale": "Google publishes strong ML research but also has a pattern of benchmark-optimized results that underperform in production (see Gemini launch benchmarks)",
+      "score": 6.0
+    }
+  ],
+  "scorer": "bsaf-heuristic",
+  "version": "1.0"
+}
