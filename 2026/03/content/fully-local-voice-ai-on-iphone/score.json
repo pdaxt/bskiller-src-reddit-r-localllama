@@ -1,0 +1,44 @@
+{
+  "bs_rating": "Mixed Evidence",
+  "bs_score": 3.3,
+  "career_angle": "On-device inference is where the edge-AI jobs are heading. Fork the repo, get FluidAudio and llama.cpp running on Apple Silicon, and you have a portfolio piece that proves you can ship where it matters -- on the metal, not in the cloud.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "rationale": "Anonymous Reddit dev, no institutional backing, but open-source repo adds accountability",
+      "score": 5.0
+    },
+    {
+      "dimension": "evidence_quality",
+      "rationale": "Public GitHub repo with code you can clone and run -- that's real evidence, not a demo video",
+      "score": 7.5
+    },
+    {
+      "dimension": "reproducibility",
+      "rationale": "Specific device (iPhone 15), named libraries (FluidAudio, llama.cpp), open repo -- anyone with the hardware can verify",
+      "score": 7.0
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "rationale": "Free, open-source, no monetization pitch -- builder sharing work, not selling something",
+      "score": 7.5
+    },
+    {
+      "dimension": "consensus",
+      "rationale": "On-device LLM inference is a validated trend; Apple Neural Engine capabilities are well-documented",
+      "score": 7.0
+    },
+    {
+      "dimension": "specificity",
+      "rationale": "Names exact tech stack, links repo, explains the Neural Engine/GPU contention solve -- no hand-waving",
+      "score": 8.0
+    },
+    {
+      "dimension": "track_record",
+      "rationale": "Unknown developer, no prior track record to evaluate -- repo activity is the only signal",
+      "score": 4.0
+    }
+  ],
+  "scorer": "bsaf-heuristic",
+  "version": "1.0"
+}
