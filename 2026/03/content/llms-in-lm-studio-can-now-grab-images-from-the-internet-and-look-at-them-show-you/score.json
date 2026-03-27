@@ -1,0 +1,44 @@
+{
+  "bs_rating": "Mixed Evidence",
+  "bs_score": 3.8,
+  "career_angle": "LM Studio plugin development is an underrated skill gap -- building quality local-LLM tooling puts you ahead of the 'API wrapper' crowd. Learn function-calling patterns with vision models now; multimodal tool-use is becoming table stakes for AI engineering roles.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "rationale": "Reddit community post by the plugin author -- knowledgeable forum but no editorial review or independent validation",
+      "score": 5.0
+    },
+    {
+      "dimension": "evidence_quality",
+      "rationale": "Working plugin links on lmstudio.ai, screenshots, specific model configs, and a Jinja template -- first-party but tangible",
+      "score": 7.0
+    },
+    {
+      "dimension": "reproducibility",
+      "rationale": "1-click install plugins publicly available, exact model names and parameter settings provided, anyone with LM Studio and a vision model can verify",
+      "score": 7.5
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "rationale": "Developer promoting their own plugins -- classic show-HN self-promotion, though plugins are free and open",
+      "score": 4.0
+    },
+    {
+      "dimension": "consensus",
+      "rationale": "Vision model tool-use and function chaining are well-established capabilities -- nothing claimed here defies known LLM behavior",
+      "score": 7.0
+    },
+    {
+      "dimension": "specificity",
+      "rationale": "Exact models (Qwen 3.5 9b/27b), precise temperature/top-k/presence-penalty values, named plugins with URLs -- unusually detailed for a Reddit post",
+      "score": 8.0
+    },
+    {
+      "dimension": "track_record",
+      "rationale": "Unknown developer with no established public track record to evaluate either way",
+      "score": 5.0
+    }
+  ],
+  "scorer": "bsaf-heuristic",
+  "version": "1.0"
+}
