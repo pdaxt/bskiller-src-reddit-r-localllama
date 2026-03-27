@@ -1,0 +1,44 @@
+{
+  "bs_rating": "Mixed Evidence",
+  "bs_score": 3.6,
+  "career_angle": "If you're buying GPU rigs or AI hardware secondhand, always verify serial numbers directly with Apple/manufacturer support -- never trust screenshots. Use escrow services for transactions over $1K.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "rationale": "Anonymous Reddit user, but the self-deprecating admission of fault and granular detail lend authenticity over clout-chasing",
+      "score": 4.0
+    },
+    {
+      "dimension": "evidence_quality",
+      "rationale": "Specific dollar amount, linked original posts, described scammer's social engineering tactics in reproducible detail -- receipts of the receipts",
+      "score": 7.0
+    },
+    {
+      "dimension": "reproducibility",
+      "rationale": "PayPal G&S marketplace scams with fake invoices from compromised institutional accounts are a well-documented pattern",
+      "score": 7.0
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "rationale": "Poster admits full fault and gains nothing from fabricating -- no GoFundMe, no product push, just a warning",
+      "score": 8.0
+    },
+    {
+      "dimension": "consensus",
+      "rationale": "Reddit hardware marketplace scams are endemic and widely corroborated across communities",
+      "score": 7.0
+    },
+    {
+      "dimension": "specificity",
+      "rationale": "$9,500 price, Ohio school board PayPal invoice, domain registered 2 weeks prior, 48-hour radio silence -- highly specific forensic detail",
+      "score": 8.0
+    },
+    {
+      "dimension": "track_record",
+      "rationale": "Unknown Reddit user with no verifiable history -- claims to be the go-to scam-checker in their circle but no proof",
+      "score": 3.0
+    }
+  ],
+  "scorer": "bsaf-heuristic",
+  "version": "1.0"
+}
