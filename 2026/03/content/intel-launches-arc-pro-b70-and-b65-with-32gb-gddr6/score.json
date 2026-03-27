@@ -1,0 +1,44 @@
+{
+  "bs_rating": "Verified",
+  "bs_score": 2.8,
+  "career_angle": "Don't mass-migrate your inference stack to Intel Arc yet. But if you're building MLOps tooling, learning SYCL now is a low-competition bet -- Intel is throwing money at developer ecosystem and will need people who bridge the CUDA-to-oneAPI gap.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "rationale": "VideoCardz is a reliable hardware news outlet; Reddit is just the aggregator",
+      "score": 7.5
+    },
+    {
+      "dimension": "evidence_quality",
+      "rationale": "Specific model names (B70, B65), exact pricing ($949), product images, 32GB GDDR6 spec -- all concrete and verifiable",
+      "score": 8.0
+    },
+    {
+      "dimension": "reproducibility",
+      "rationale": "Product launch confirmable via Intel's own press materials and retailer listings",
+      "score": 8.0
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "rationale": "Posted to r/LocalLLaMA which frames it as an LLM play -- but the card is marketed as a workstation GPU, not an inference accelerator. Subtle reframing happening",
+      "score": 6.5
+    },
+    {
+      "dimension": "consensus",
+      "rationale": "Hardware specs are consensus-verified but community sentiment on Intel Arc for ML workloads remains deeply skeptical due to driver/software maturity gaps",
+      "score": 6.0
+    },
+    {
+      "dimension": "specificity",
+      "rationale": "Model numbers, VRAM amount, memory type, exact price point -- unusually specific for a product launch post",
+      "score": 8.5
+    },
+    {
+      "dimension": "track_record",
+      "rationale": "Intel's Arc GPU track record is rocky -- Arc A770 launched with broken drivers, and their ML software ecosystem still trails NVIDIA by years. Specs are real but execution history warrants caution",
+      "score": 5.5
+    }
+  ],
+  "scorer": "bsaf-heuristic",
+  "version": "1.0"
+}
